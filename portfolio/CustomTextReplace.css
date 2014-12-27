@@ -1,0 +1,30 @@
+/** Add css rules here for your application. */
+.gwt-DecoratorPanel {
+   width:500px;
+   margin-right:auto;
+   margin-left:auto;
+ }
+.gwt-DecoratorPanel {
+    margin-top:25px;
+ }
+.gwt-TextArea {
+   margin-left:20px;
+   width:400px;
+   height:40px;
+}
+.full {
+   margin:10px;
+}
+.boxCell {
+   border:1px solid #737373;
+   font-family:Courier;
+}
+.gwt-TextBox {
+   width:150px;
+   padding:0;
+   
+   }
+.gwt-DecoratorPanel .middleCenter {
+   height: 100%;
+   width: 100%;
+ }
