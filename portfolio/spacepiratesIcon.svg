@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="24"
+   height="24"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="spacepiratesIconSilhouette.svg"
+   inkscape:export-filename="/home/alex/Desktop/apogue.mywebcommunity.org/portfolio/spacepiratesIcon.png"
+   inkscape:export-xdpi="480"
+   inkscape:export-ydpi="480">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="16"
+     inkscape:cx="-3.3610301"
+     inkscape:cy="3.7278527"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1680"
+     inkscape:window-height="1026"
+     inkscape:window-x="1366"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-290.01784,-431.90126)">
+    <path
+       style="fill:#f3d300;fill-opacity:1;stroke:none"
+       d="m 291.18962,455.90105 5.59413,-5.91225 -5.06791,-2.20598 z"
+       id="path10016-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:transform-center-y="3.569725"
+       inkscape:transform-center-x="-0.001685"
+       inkscape:export-filename="/home/alex/Desktop/apogue.mywebcommunity.org/portfolio/rect10832.png"
+       inkscape:export-xdpi="479.98001"
+       inkscape:export-ydpi="479.98001" />
+    <path
+       style="fill:#ff0000;fill-opacity:1;stroke:none"
+       d="m 298.16754,439.76113 -8.1497,7.77919 8.14269,3.54646 z"
+       id="path10016"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/alex/Desktop/apogue.mywebcommunity.org/portfolio/rect10832.png"
+       inkscape:export-xdpi="479.98001"
+       inkscape:export-ydpi="479.98001" />
+    <path
+       style="fill:#0000ff;fill-opacity:1;stroke:none"
+       d="m 305.82988,431.90116 2.5e-4,11.26676 8.18757,-3.44168 z"
+       id="path10016-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/alex/Desktop/apogue.mywebcommunity.org/portfolio/rect10832.png"
+       inkscape:export-xdpi="479.98001"
+       inkscape:export-ydpi="479.98001" />
+    <rect
+       style="fill:#f3d300;fill-opacity:1;stroke:none"
+       id="rect10832"
+       width="10.904968"
+       height="10.908999"
+       x="301.983"
+       y="444.98395"
+       inkscape:export-xdpi="479.98001"
+       inkscape:export-ydpi="479.98001" />
+  </g>
+</svg>
