@@ -2,24 +2,45 @@
 <head>
 <title>Welcome to alexpogue.com</title>
 <style type="text/css">
+html,body{
+  margin:0;
+  padding:0;
+  height:100%;
+  width:100%;
+}
 body {
   text-align:center; /* for IE */
 }
+#container {
+  text-align:center;
+  white-space:nowrap;
+}
+#container:before {
+  content:'';
+  display:inline-block;
+  height:100%;
+  vertical-align:middle;
+  margin-right:-0.25em;
+}
 #main {
-  width:375px;
-  text-align: left; /* counter the body center */
-  margin:50 auto;
+  display:inline-block;
+  width: 375px;
+  font-size:20px;
+  overflow:hidden;
+  vertical-align:middle;
 }
 </style>
 </head>
 <body>
+<div id="container">
 <div id="main">
 Alex Pogue
-<ul>
 <li>Software Engineer at IBM.</li>
 <li>
 <a href="resume.pdf">Resume</a>, <a href="portfolio/index.html">Portfolio</a>, <a href="https://github.com/alexpogue" target="_blank">GitHub</a>
+</li>
 </ul>
+</div>
 </div>
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
