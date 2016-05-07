@@ -11,38 +11,41 @@ html,body{
   height:100%;
   width:100%;
 }
+
 body {
   text-align:center; /* for IE */
 }
+
 #container {
-  text-align:center;
-  white-space:nowrap;
-}
-#container:before {
-  content:'';
-  display:inline-block;
+  text-align:left;
+  display:table;
   height:100%;
-  vertical-align:middle;
-  margin-right:-0.25em;
+  width:100%;
 }
-#main {
-  display:inline-block;
-  width: 375px;
-  font-size:20px;
-  overflow:hidden;
+
+#container2 {
+  display:table-cell;
   vertical-align:middle;
+}
+
+#main {
+  display:table; /* causes width to be determined based on content size*/
+  margin-left:auto;
+  margin-right:auto;
 }
 </style>
 </head>
 <body>
 <div id="container">
+<div id="container2">
 <div id="main">
-Alex Pogue
+<strong>Alex Pogue</strong>
 <li>Software Engineer at IBM.</li>
 <li>
 <a href="resume.pdf">Resume</a>, <a href="portfolio/index.html">Portfolio</a>, <a href="https://github.com/alexpogue" target="_blank">GitHub</a>
 </li>
 </ul>
+</div>
 </div>
 </div>
 <script>
