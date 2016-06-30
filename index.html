@@ -24,9 +24,21 @@ html,body{
     font-size:1.4em;
     text-align:center;
 }
-img {
-    display:block;
+/* this trick prevents page jumps when image loads
+see http://aspiringwebdev.com/stop-your-web-pages-from-jumping-around-while-images-load/ */
+.image-container img {
+    position:absolute;
+    top:0;
+    left:0;
+    width:100%;
+}
+.image-container {
+    position:relative;
+    padding-bottom: 66%;
+    height:0;
+    overflow:hidden;
     margin:0 auto;
+    width:150px;
 }
 </style>
 <!--[if lte IE 7]>
@@ -43,7 +55,9 @@ body {
 </head>
 <body>
 <div id="container">
-<img src="images/alex-pogue-profile.png" />
+<div class="image-container">
+<img src="alex-pogue-profile.png" />
+</div>
 <h1>Alex Pogue</h1>
 <ul>
 <li>Software Engineer at IBM.</li>
