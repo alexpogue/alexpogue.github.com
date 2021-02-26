@@ -41,7 +41,14 @@ body {
 <h3>
 IBM Streams Cloud service monitoring system
 </h3>
-<p>I renovated the old monitoring system for Streaming Analytics, the IBM Streams cloud service, from collectd/Graphite/Seyren/PagerDuty to New Relic/ServiceNow/PagerDuty. In the process I developed an intimate understanding of each part of a monitoring system. I developed a New Relic syncing library to sync an alert configuration file with New Relic Alerts. In its development, I had to update an open source API wrapper Python library to fix alert condition fields (<a href="https://github.com/sansible/newrelic-api/pull/14">here</a>).</p>
+<p>I developed a New Relic syncing library to sync an alert configuration file with New Relic Alerts. In its development, I had to update an open source API wrapper Python library to fix alert condition fields (<a href="https://github.com/sansible/newrelic-api/pull/14">here</a>).</p>
+
+Rationale: IBM consolidating to a single monitoring system for all cloud services. This move would give our immediate team more control over the alerts for our service, as well as better charts and metric views.
+
+Initial alerting infrastructure:
+
+
+
 
 <iframe src = "/ViewerJS/#../portfolio/newrelic/NewRelicStory.odp" width='400' height='300' allowfullscreen></iframe>
 </div>
