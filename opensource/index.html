@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
+<title>Alex Pogue portfolio</title>
+<link rel="canonical" href="http://www.alexpogue.com/portfolio/" />
+<link rel="icon" type="image/png" href="/favicon.png"/>
+<style>
+html,body{
+    width:100%;
+    line-height:1.4em;
+    background-color:#fcfcfc;
+    color:#111;
+    margin:0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#container {
+    max-width: 640px;
+    margin: 50px auto;
+    padding: 0 15px;
+}
+.right {
+    float:right;
+}
+</style>
+<!--[if lte IE 7]>
+<style type="text/css">
+body {
+    text-align:center;
+}
+#container {
+    text-align:left;
+    width:640px; /* approx. width to center in IE6/IE7 */
+}
+</style>
+<![endif]-->
+</head>
+<body>
+<div id="container">
+<h1>Open Source Contributions</h1>
+<h3>
+<a href="https://github.com/IBMStreams/streamsx.inet/commits?author=alexpogue">IBMStreams/streamsx.inet</a>
+</h3>
+<p>IBM Streams allows customers to write their own Streams apps to analyze data in transit. To do this, Streams provides a set of open source "toolkits" which provide the backend logic necssary for the data input/output and analysis. While writing a tutorial article for IBM Streams to connect to REST APIs, I encountered issues with the inet toolkit's web request functionality, so I dug into the code and submitted some bugfixes. Here are the issues I resolved:
+
+<ul>
+    <li>Long password handling - existing toolkit would choke on long passwords due to the base64 encoding library used. It was truncating encoded strings.</li>
+    <li>Encode HTTP headers as ASCII to better conform to the HTTP spec.</li>
+    <li>Allow users to add arbitrary header fields.</li>
+    <li>Add a setting to disable SSL verification - similar to cURL's `-k` field.</li>
+</ul>
+</p>
+<h3>
+<a href="https://github.com/IBMStreams/streamsx.hdfs/pull/70">IBMStreams/streamsx.hdfs</a>
+</h3>
+<p>Another article, another toolkit fix. This time it was an article about connecting Streams to Hadoop via HDFS. To connect to BigInsights, IBM's cloud-hosted Hadoop offering, the toolkit needed an enhancement to allow unlimited encryption key length.</p>
+
+<h3>
+<a href=""https://github.com/ambitioninc/newrelic-api/commit/2b2be8e86095aab5b93d3e6e186b491b513e3ec4>New Relic Python API</a>
+</h3>
+<p>While writing an alert syncing tool for IBM Streams cloud service's transition to New Relic, I had to fix the Alert Conditions API which was out of date with the New Relic REST API. Fortunately, I just had to rename a JSON parameter. This alert syncing tool allowed us to store our alerting thresholds in a yaml file in version control and sync them with a simple command.</p>
+
+<h3>
+<a href="https://github.com/CleverRaven/Cataclysm-DDA/pull/23694">Cataclysm DDA</a>
+</h3>
+<p>I decided to contribute to a game I enjoyed called Cataclysm: Dark Days Ahead. I dug up this issue and spun up a development environment on a Linux VM. Previously players were allowed to install multiple guns on a single vehicle turret. This was unintended behavior, so I made the change to only allow a single turret. Fun little contribution!</p>
+
+</div>
+</body>
+</html>
