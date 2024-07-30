@@ -1,5 +1,6 @@
 name: "Alex Pogue"
 description: "Alex Pogue's personal/professional website"
+encoding: utf-8
 
 url: "http://localhost:4000"
 
