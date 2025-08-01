@@ -1,5 +1,5 @@
 {
-	"manifestHash": "8vlfdg",
+	"manifestHash": "9w4yf2",
 	"symbols": {
 		"s_mLIFOUdv8bU": {
 			"origin": "components/image-slider/image-slider.tsx",
@@ -106,7 +106,7 @@
 			"captures": false,
 			"loc": [
 				240,
-				4120
+				4122
 			]
 		},
 		"s_1raneLGffO8": {
@@ -785,79 +785,63 @@
 	"mapping": {
 		"s_mLIFOUdv8bU": "q-CPcoRYRm.js",
 		"s_ralezJo7NVI": "q-CPcoRYRm.js",
-		"s_Ysfvd0zsHZc": "q-CBmguQcj.js",
+		"s_Ysfvd0zsHZc": "q-AD6sTZiT.js",
 		"s_26Zk9LevwR4": "q-4h1fVc6_.js",
-		"s_35YlVmV10xA": "q-DRfIkNll.js",
+		"s_35YlVmV10xA": "q-ClQqka1c.js",
 		"s_0AnGTiWLqSE": "q-CPcoRYRm.js",
-		"s_0vphQYqOdZI": "q--7XHQIgZ.js",
-		"s_15mU0ByJI68": "q-DXWoxAYo.js",
-		"s_1raneLGffO8": "q-DRfIkNll.js",
-		"s_7cRGzx0I4TU": "q-CuavQ0HY.js",
-		"s_B0lqk5IDDy4": "q-Dg_ncS5z.js",
-		"s_MiPVFWJLcMo": "q-DhDjrEo-.js",
-		"s_ScE8eseirUA": "q-RTTBigzg.js",
-		"s_XVIkzjjNQ0w": "q-CgJNT6hf.js",
+		"s_0vphQYqOdZI": "q-7mpNhNrE.js",
+		"s_15mU0ByJI68": "q-Bd4ly-5n.js",
+		"s_1raneLGffO8": "q-ClQqka1c.js",
+		"s_7cRGzx0I4TU": "q-DW2ukm1J.js",
+		"s_B0lqk5IDDy4": "q-ChOLMUJp.js",
+		"s_MiPVFWJLcMo": "q-CdIcrjq6.js",
+		"s_ScE8eseirUA": "q-CUavC7kH.js",
+		"s_XVIkzjjNQ0w": "q-DIiZ9uiJ.js",
 		"s_bmV0oH7tsks": "q-Gd0iVcj2.js",
-		"s_p1yCGpFL1xE": "q-CBmguQcj.js",
-		"s_pWsmcogutG8": "q-Dl36FNsg.js",
-		"s_tntnak2DhJ8": "q-WQoT-ReR.js",
-		"s_0l91Nnb7qQk": "q-CgJNT6hf.js",
-		"s_5FEAdbBdQZk": "q-CgJNT6hf.js",
-		"s_Av0GO13Ht4U": "q-CgJNT6hf.js",
-		"s_HsrtLkfU6x4": "q-CgJNT6hf.js",
-		"s_IGUo7ZRYC04": "q-CgJNT6hf.js",
-		"s_IPvXxSWvDfg": "q-CgJNT6hf.js",
-		"s_PgUXYl4aURE": "q-CgJNT6hf.js",
-		"s_WLTOqUsshp4": "q-CgJNT6hf.js",
-		"s_XqqA2QJ3qX4": "q-CgJNT6hf.js",
-		"s_gRkv5OsTwac": "q-CgJNT6hf.js",
-		"s_jP0r07mvknE": "q-CgJNT6hf.js",
-		"s_l7QtfJFSufc": "q-CgJNT6hf.js",
-		"s_ljtDExb5PWQ": "q-CgJNT6hf.js",
-		"s_nDFmuFb7J0w": "q-CgJNT6hf.js",
-		"s_wpTL5FbvJtM": "q-CgJNT6hf.js",
-		"s_K4gvalEGCME": "q-CBmguQcj.js",
-		"s_0eOS7JRHSNE": "q-CgJNT6hf.js",
-		"s_0r2ah6M2Ey8": "q-CuavQ0HY.js",
-		"s_5EtpcUU1Su0": "q-CgJNT6hf.js",
-		"s_7YdNvWawcjw": "q-CgJNT6hf.js",
-		"s_EZ0sJOWXjbk": "q-CgJNT6hf.js",
+		"s_p1yCGpFL1xE": "q-AD6sTZiT.js",
+		"s_pWsmcogutG8": "q-DczYArzj.js",
+		"s_tntnak2DhJ8": "q-DCPR7YCP.js",
+		"s_0l91Nnb7qQk": "q-DIiZ9uiJ.js",
+		"s_5FEAdbBdQZk": "q-DIiZ9uiJ.js",
+		"s_Av0GO13Ht4U": "q-DIiZ9uiJ.js",
+		"s_HsrtLkfU6x4": "q-DIiZ9uiJ.js",
+		"s_IGUo7ZRYC04": "q-DIiZ9uiJ.js",
+		"s_IPvXxSWvDfg": "q-DIiZ9uiJ.js",
+		"s_PgUXYl4aURE": "q-DIiZ9uiJ.js",
+		"s_WLTOqUsshp4": "q-DIiZ9uiJ.js",
+		"s_XqqA2QJ3qX4": "q-DIiZ9uiJ.js",
+		"s_gRkv5OsTwac": "q-DIiZ9uiJ.js",
+		"s_jP0r07mvknE": "q-DIiZ9uiJ.js",
+		"s_l7QtfJFSufc": "q-DIiZ9uiJ.js",
+		"s_ljtDExb5PWQ": "q-DIiZ9uiJ.js",
+		"s_nDFmuFb7J0w": "q-DIiZ9uiJ.js",
+		"s_wpTL5FbvJtM": "q-DIiZ9uiJ.js",
+		"s_K4gvalEGCME": "q-AD6sTZiT.js",
+		"s_0eOS7JRHSNE": "q-DIiZ9uiJ.js",
+		"s_0r2ah6M2Ey8": "q-DW2ukm1J.js",
+		"s_5EtpcUU1Su0": "q-DIiZ9uiJ.js",
+		"s_7YdNvWawcjw": "q-DIiZ9uiJ.js",
+		"s_EZ0sJOWXjbk": "q-DIiZ9uiJ.js",
 		"s_RMkWYTMVxwY": "q-CPcoRYRm.js",
-		"s_RZTeGW9xgPs": "q-Dg_ncS5z.js",
-		"s_VneRD5ws8AQ": "q-DXWoxAYo.js",
-		"s_fb64zWN7oII": "q-CgJNT6hf.js",
-		"s_xPD2nc91eFU": "q-CgJNT6hf.js",
+		"s_RZTeGW9xgPs": "q-ChOLMUJp.js",
+		"s_VneRD5ws8AQ": "q-Bd4ly-5n.js",
+		"s_fb64zWN7oII": "q-DIiZ9uiJ.js",
+		"s_xPD2nc91eFU": "q-DIiZ9uiJ.js",
 		"s_9KRx0IOCHt8": "q-BRBr7aun.js",
 		"s_A5SCimyrjAE": "q-C5VovkJ7.js",
 		"s_N26RLdG0oBg": "q-C5S8xZDW.js",
-		"s_WfTOxT4IrdA": "q-C2gvA8cm.js",
-		"s_FdQ8zERN4uM": "q-DRfIkNll.js",
+		"s_WfTOxT4IrdA": "q-So2fMhGj.js",
+		"s_FdQ8zERN4uM": "q-ClQqka1c.js",
 		"s_Li8ELRw0vEg": "q-CPcoRYRm.js",
-		"s_PmWjL2RrvZM": "q-DhDjrEo-.js",
+		"s_PmWjL2RrvZM": "q-CdIcrjq6.js",
 		"s_US0pTyQnOdc": "q-Gd0iVcj2.js",
-		"s_aww2BzpANGM": "q-CBmguQcj.js",
-		"s_qGVD1Sz413o": "q-CBmguQcj.js",
-		"s_xe8duyQ5aaU": "q-Dl36FNsg.js",
-		"s_zPJUEsxZLIA": "q-DRfIkNll.js",
-		"s_zpHcJzYZ88E": "q-Dl36FNsg.js"
+		"s_aww2BzpANGM": "q-AD6sTZiT.js",
+		"s_qGVD1Sz413o": "q-AD6sTZiT.js",
+		"s_xe8duyQ5aaU": "q-DczYArzj.js",
+		"s_zPJUEsxZLIA": "q-ClQqka1c.js",
+		"s_zpHcJzYZ88E": "q-DczYArzj.js"
 	},
 	"bundles": {
-		"q--7XHQIgZ.js": {
-			"size": 899,
-			"total": 163530,
-			"imports": [
-				"q-CK_dj2ki.js",
-				"q-Dl36FNsg.js",
-				"q-Gd0iVcj2.js"
-			],
-			"origins": [
-				"src/components/router-head/router-head.tsx_RouterHead_component_0vphQYqOdZI.js"
-			],
-			"symbols": [
-				"s_0vphQYqOdZI"
-			],
-			"interactivity": 2
-		},
 		"q-4h1fVc6_.js": {
 			"size": 176,
 			"total": 76704,
@@ -873,21 +857,71 @@
 			],
 			"interactivity": 3
 		},
-		"q-B30i1H_e.js": {
-			"size": 171,
-			"total": 76699,
+		"q-7mpNhNrE.js": {
+			"size": 899,
+			"total": 163530,
 			"imports": [
 				"q-CK_dj2ki.js",
+				"q-DczYArzj.js",
+				"q-Gd0iVcj2.js"
+			],
+			"origins": [
+				"src/components/router-head/router-head.tsx_RouterHead_component_0vphQYqOdZI.js"
+			],
+			"symbols": [
+				"s_0vphQYqOdZI"
+			],
+			"interactivity": 2
+		},
+		"q-AD6sTZiT.js": {
+			"size": 7043,
+			"total": 169674,
+			"imports": [
+				"q-CK_dj2ki.js",
+				"q-DczYArzj.js",
 				"q-Gd0iVcj2.js"
 			],
 			"dynamicImports": [
-				"q-WQoT-ReR.js"
+				"q-BY1TEMH2.js",
+				"q-DIiZ9uiJ.js",
+				"q-DO6PmrI4.js",
+				"q-DrtCJqBl.js"
 			],
 			"origins": [
-				"src/global.css",
-				"src/root.tsx"
+				"@qwik-city-plan",
+				"node_modules/@builder.io/qwik-city/lib/index.qwik.mjs_QwikCityProvider_component_goto_aww2BzpANGM.js",
+				"node_modules/@builder.io/qwik-city/lib/index.qwik.mjs_QwikCityProvider_component_p1yCGpFL1xE.js",
+				"node_modules/@builder.io/qwik-city/lib/index.qwik.mjs_QwikCityProvider_component_registerPreventNav_qGVD1Sz413o.js",
+				"node_modules/@builder.io/qwik-city/lib/index.qwik.mjs_QwikCityProvider_component_useStyles_K4gvalEGCME.js",
+				"node_modules/@builder.io/qwik-city/lib/index.qwik.mjs_QwikCityProvider_component_useTask_Ysfvd0zsHZc.js"
 			],
-			"interactivity": 0
+			"symbols": [
+				"s_aww2BzpANGM",
+				"s_K4gvalEGCME",
+				"s_p1yCGpFL1xE",
+				"s_qGVD1Sz413o",
+				"s_Ysfvd0zsHZc"
+			],
+			"interactivity": 3
+		},
+		"q-Bd4ly-5n.js": {
+			"size": 4768,
+			"total": 331431,
+			"imports": [
+				"q-ChOLMUJp.js",
+				"q-CK_dj2ki.js",
+				"q-DczYArzj.js",
+				"q-Gd0iVcj2.js"
+			],
+			"origins": [
+				"src/routes/resume/index.tsx_resume_component_15mU0ByJI68.js",
+				"src/routes/resume/index.tsx_resume_component_useStylesScoped_VneRD5ws8AQ.js"
+			],
+			"symbols": [
+				"s_15mU0ByJI68",
+				"s_VneRD5ws8AQ"
+			],
+			"interactivity": 2
 		},
 		"q-BRBr7aun.js": {
 			"size": 2297,
@@ -900,23 +934,7 @@
 			],
 			"interactivity": 1
 		},
-		"q-C2gvA8cm.js": {
-			"size": 1338,
-			"total": 163969,
-			"imports": [
-				"q-CK_dj2ki.js",
-				"q-Dl36FNsg.js",
-				"q-Gd0iVcj2.js"
-			],
-			"origins": [
-				"node_modules/@builder.io/qwik-city/lib/index.qwik.mjs_serverQrl_rpc_WfTOxT4IrdA.js"
-			],
-			"symbols": [
-				"s_WfTOxT4IrdA"
-			],
-			"interactivity": 1
-		},
-		"q-C389w-oM.js": {
+		"q-BY1TEMH2.js": {
 			"size": 299,
 			"total": 76827,
 			"imports": [
@@ -924,10 +942,10 @@
 				"q-Gd0iVcj2.js"
 			],
 			"dynamicImports": [
-				"q-Dg_ncS5z.js"
+				"q-Bd4ly-5n.js"
 			],
 			"origins": [
-				"src/routes/index.tsx"
+				"src/routes/resume/index.tsx"
 			],
 			"interactivity": 0
 		},
@@ -961,44 +979,185 @@
 			],
 			"interactivity": 1
 		},
-		"q-CBmguQcj.js": {
-			"size": 7043,
-			"total": 169674,
+		"q-CdIcrjq6.js": {
+			"size": 853,
+			"total": 163484,
 			"imports": [
 				"q-CK_dj2ki.js",
-				"q-Dl36FNsg.js",
+				"q-DczYArzj.js",
 				"q-Gd0iVcj2.js"
 			],
-			"dynamicImports": [
-				"q-C389w-oM.js",
-				"q-CgJNT6hf.js",
-				"q-DGEsqE7p.js",
-				"q-DWN0b8Pp.js"
-			],
 			"origins": [
-				"@qwik-city-plan",
-				"node_modules/@builder.io/qwik-city/lib/index.qwik.mjs_QwikCityProvider_component_goto_aww2BzpANGM.js",
-				"node_modules/@builder.io/qwik-city/lib/index.qwik.mjs_QwikCityProvider_component_p1yCGpFL1xE.js",
-				"node_modules/@builder.io/qwik-city/lib/index.qwik.mjs_QwikCityProvider_component_registerPreventNav_qGVD1Sz413o.js",
-				"node_modules/@builder.io/qwik-city/lib/index.qwik.mjs_QwikCityProvider_component_useStyles_K4gvalEGCME.js",
-				"node_modules/@builder.io/qwik-city/lib/index.qwik.mjs_QwikCityProvider_component_useTask_Ysfvd0zsHZc.js"
+				"node_modules/@builder.io/qwik-city/lib/index.qwik.mjs_QwikCityMockProvider_component_MiPVFWJLcMo.js",
+				"node_modules/@builder.io/qwik-city/lib/index.qwik.mjs_QwikCityMockProvider_component_goto_PmWjL2RrvZM.js"
 			],
 			"symbols": [
-				"s_aww2BzpANGM",
-				"s_K4gvalEGCME",
-				"s_p1yCGpFL1xE",
-				"s_qGVD1Sz413o",
-				"s_Ysfvd0zsHZc"
+				"s_MiPVFWJLcMo",
+				"s_PmWjL2RrvZM"
+			],
+			"interactivity": 2
+		},
+		"q-ChOLMUJp.js": {
+			"size": 1401,
+			"total": 164032,
+			"imports": [
+				"q-CK_dj2ki.js",
+				"q-DczYArzj.js",
+				"q-Gd0iVcj2.js"
+			],
+			"origins": [
+				"src/assets/alex-pogue-profile.png",
+				"src/routes/index.css?inline",
+				"src/routes/index.tsx_routes_component_B0lqk5IDDy4.js",
+				"src/routes/index.tsx_routes_component_useStylesScoped_RZTeGW9xgPs.js"
+			],
+			"symbols": [
+				"s_B0lqk5IDDy4",
+				"s_RZTeGW9xgPs"
+			],
+			"interactivity": 2
+		},
+		"q-CK_dj2ki.js": {
+			"size": 3611,
+			"total": 3611,
+			"origins": [
+				"node_modules/@builder.io/qwik/dist/preloader.mjs"
+			],
+			"interactivity": 0
+		},
+		"q-ClQqka1c.js": {
+			"size": 2317,
+			"total": 164948,
+			"imports": [
+				"q-CK_dj2ki.js",
+				"q-DczYArzj.js",
+				"q-Gd0iVcj2.js"
+			],
+			"origins": [
+				"node_modules/@builder.io/qwik-city/lib/index.qwik.mjs_Link_component_1raneLGffO8.js",
+				"node_modules/@builder.io/qwik-city/lib/index.qwik.mjs_Link_component_handleClick_FdQ8zERN4uM.js",
+				"node_modules/@builder.io/qwik-city/lib/index.qwik.mjs_Link_component_handlePrefetch_zPJUEsxZLIA.js",
+				"node_modules/@builder.io/qwik-city/lib/index.qwik.mjs_Link_component_useVisibleTask_35YlVmV10xA.js"
+			],
+			"symbols": [
+				"s_1raneLGffO8",
+				"s_35YlVmV10xA",
+				"s_FdQ8zERN4uM",
+				"s_zPJUEsxZLIA"
 			],
 			"interactivity": 3
 		},
-		"q-CgJNT6hf.js": {
+		"q-CoALfwuL.js": {
+			"size": 171,
+			"total": 76699,
+			"imports": [
+				"q-CK_dj2ki.js",
+				"q-Gd0iVcj2.js"
+			],
+			"dynamicImports": [
+				"q-DCPR7YCP.js"
+			],
+			"origins": [
+				"src/global.css",
+				"src/root.tsx"
+			],
+			"interactivity": 0
+		},
+		"q-CPcoRYRm.js": {
+			"size": 2535,
+			"total": 79063,
+			"imports": [
+				"q-CK_dj2ki.js",
+				"q-Gd0iVcj2.js"
+			],
+			"origins": [
+				"src/components/image-slider/image-slider.tsx_ImageSlider_component_0AnGTiWLqSE.js",
+				"src/components/image-slider/image-slider.tsx_ImageSlider_component_div_form_onSubmit_1_ralezJo7NVI.js",
+				"src/components/image-slider/image-slider.tsx_ImageSlider_component_div_form_onSubmit_mLIFOUdv8bU.js",
+				"src/components/image-slider/image-slider.tsx_ImageSlider_component_goToSlide_Li8ELRw0vEg.js",
+				"src/components/image-slider/image-slider.tsx_ImageSlider_component_useStylesScoped_RMkWYTMVxwY.js",
+				"src/components/image-slider/slider_dots.css?inline"
+			],
+			"symbols": [
+				"s_0AnGTiWLqSE",
+				"s_Li8ELRw0vEg",
+				"s_mLIFOUdv8bU",
+				"s_ralezJo7NVI",
+				"s_RMkWYTMVxwY"
+			],
+			"interactivity": 2
+		},
+		"q-CUavC7kH.js": {
+			"size": 1006,
+			"total": 163637,
+			"imports": [
+				"q-CK_dj2ki.js",
+				"q-DczYArzj.js",
+				"q-Gd0iVcj2.js"
+			],
+			"origins": [
+				"node_modules/@builder.io/qwik-city/lib/index.qwik.mjs_RouterOutlet_component_ScE8eseirUA.js"
+			],
+			"symbols": [
+				"s_ScE8eseirUA"
+			],
+			"interactivity": 2
+		},
+		"q-DCPR7YCP.js": {
+			"size": 486,
+			"total": 163117,
+			"imports": [
+				"q-CK_dj2ki.js",
+				"q-DczYArzj.js",
+				"q-Gd0iVcj2.js"
+			],
+			"dynamicImports": [
+				"q-7mpNhNrE.js"
+			],
+			"origins": [
+				"src/components/router-head/router-head.tsx",
+				"src/root.tsx_root_component_tntnak2DhJ8.js"
+			],
+			"symbols": [
+				"s_tntnak2DhJ8"
+			],
+			"interactivity": 2
+		},
+		"q-DczYArzj.js": {
+			"size": 9575,
+			"total": 86103,
+			"imports": [
+				"q-CK_dj2ki.js",
+				"q-Gd0iVcj2.js"
+			],
+			"dynamicImports": [
+				"q-AD6sTZiT.js",
+				"q-BRBr7aun.js",
+				"q-ClQqka1c.js",
+				"q-CUavC7kH.js"
+			],
+			"origins": [
+				"@qwik-city-sw-register",
+				"node_modules/@builder.io/qwik-city/lib/index.qwik.mjs",
+				"node_modules/@builder.io/qwik-city/lib/index.qwik.mjs_GetForm_component_form_onSubmit_1_xe8duyQ5aaU.js",
+				"node_modules/@builder.io/qwik-city/lib/index.qwik.mjs_GetForm_component_form_onSubmit_zpHcJzYZ88E.js",
+				"node_modules/@builder.io/qwik-city/lib/index.qwik.mjs_GetForm_component_pWsmcogutG8.js",
+				"node_modules/zod/lib/index.mjs"
+			],
+			"symbols": [
+				"s_pWsmcogutG8",
+				"s_xe8duyQ5aaU",
+				"s_zpHcJzYZ88E"
+			],
+			"interactivity": 2
+		},
+		"q-DIiZ9uiJ.js": {
 			"size": 14410,
 			"total": 341073,
 			"imports": [
+				"q-ChOLMUJp.js",
 				"q-CK_dj2ki.js",
-				"q-Dg_ncS5z.js",
-				"q-Dl36FNsg.js",
+				"q-DczYArzj.js",
 				"q-Gd0iVcj2.js"
 			],
 			"dynamicImports": [
@@ -1057,45 +1216,43 @@
 			],
 			"interactivity": 2
 		},
-		"q-CK_dj2ki.js": {
-			"size": 3611,
-			"total": 3611,
-			"origins": [
-				"node_modules/@builder.io/qwik/dist/preloader.mjs"
-			],
-			"interactivity": 0
-		},
-		"q-CPcoRYRm.js": {
-			"size": 2535,
-			"total": 79063,
+		"q-DO6PmrI4.js": {
+			"size": 299,
+			"total": 76827,
 			"imports": [
 				"q-CK_dj2ki.js",
 				"q-Gd0iVcj2.js"
 			],
+			"dynamicImports": [
+				"q-ChOLMUJp.js"
+			],
 			"origins": [
-				"src/components/image-slider/image-slider.tsx_ImageSlider_component_0AnGTiWLqSE.js",
-				"src/components/image-slider/image-slider.tsx_ImageSlider_component_div_form_onSubmit_1_ralezJo7NVI.js",
-				"src/components/image-slider/image-slider.tsx_ImageSlider_component_div_form_onSubmit_mLIFOUdv8bU.js",
-				"src/components/image-slider/image-slider.tsx_ImageSlider_component_goToSlide_Li8ELRw0vEg.js",
-				"src/components/image-slider/image-slider.tsx_ImageSlider_component_useStylesScoped_RMkWYTMVxwY.js",
-				"src/components/image-slider/slider_dots.css?inline"
+				"src/routes/index.tsx"
 			],
-			"symbols": [
-				"s_0AnGTiWLqSE",
-				"s_Li8ELRw0vEg",
-				"s_mLIFOUdv8bU",
-				"s_ralezJo7NVI",
-				"s_RMkWYTMVxwY"
-			],
-			"interactivity": 2
+			"interactivity": 0
 		},
-		"q-CuavQ0HY.js": {
+		"q-DrtCJqBl.js": {
+			"size": 299,
+			"total": 76827,
+			"imports": [
+				"q-CK_dj2ki.js",
+				"q-Gd0iVcj2.js"
+			],
+			"dynamicImports": [
+				"q-DW2ukm1J.js"
+			],
+			"origins": [
+				"src/routes/portfolio/index.tsx"
+			],
+			"interactivity": 0
+		},
+		"q-DW2ukm1J.js": {
 			"size": 2671,
 			"total": 329334,
 			"imports": [
+				"q-ChOLMUJp.js",
 				"q-CK_dj2ki.js",
-				"q-Dg_ncS5z.js",
-				"q-Dl36FNsg.js",
+				"q-DczYArzj.js",
 				"q-Gd0iVcj2.js"
 			],
 			"origins": [
@@ -1105,143 +1262,6 @@
 			"symbols": [
 				"s_0r2ah6M2Ey8",
 				"s_7cRGzx0I4TU"
-			],
-			"interactivity": 2
-		},
-		"q-Dg_ncS5z.js": {
-			"size": 1401,
-			"total": 164032,
-			"imports": [
-				"q-CK_dj2ki.js",
-				"q-Dl36FNsg.js",
-				"q-Gd0iVcj2.js"
-			],
-			"origins": [
-				"src/assets/alex-pogue-profile.png",
-				"src/routes/index.css?inline",
-				"src/routes/index.tsx_routes_component_B0lqk5IDDy4.js",
-				"src/routes/index.tsx_routes_component_useStylesScoped_RZTeGW9xgPs.js"
-			],
-			"symbols": [
-				"s_B0lqk5IDDy4",
-				"s_RZTeGW9xgPs"
-			],
-			"interactivity": 2
-		},
-		"q-DGEsqE7p.js": {
-			"size": 299,
-			"total": 76827,
-			"imports": [
-				"q-CK_dj2ki.js",
-				"q-Gd0iVcj2.js"
-			],
-			"dynamicImports": [
-				"q-CuavQ0HY.js"
-			],
-			"origins": [
-				"src/routes/portfolio/index.tsx"
-			],
-			"interactivity": 0
-		},
-		"q-DhDjrEo-.js": {
-			"size": 853,
-			"total": 163484,
-			"imports": [
-				"q-CK_dj2ki.js",
-				"q-Dl36FNsg.js",
-				"q-Gd0iVcj2.js"
-			],
-			"origins": [
-				"node_modules/@builder.io/qwik-city/lib/index.qwik.mjs_QwikCityMockProvider_component_MiPVFWJLcMo.js",
-				"node_modules/@builder.io/qwik-city/lib/index.qwik.mjs_QwikCityMockProvider_component_goto_PmWjL2RrvZM.js"
-			],
-			"symbols": [
-				"s_MiPVFWJLcMo",
-				"s_PmWjL2RrvZM"
-			],
-			"interactivity": 2
-		},
-		"q-Dl36FNsg.js": {
-			"size": 9575,
-			"total": 86103,
-			"imports": [
-				"q-CK_dj2ki.js",
-				"q-Gd0iVcj2.js"
-			],
-			"dynamicImports": [
-				"q-BRBr7aun.js",
-				"q-CBmguQcj.js",
-				"q-DRfIkNll.js",
-				"q-RTTBigzg.js"
-			],
-			"origins": [
-				"@qwik-city-sw-register",
-				"node_modules/@builder.io/qwik-city/lib/index.qwik.mjs",
-				"node_modules/@builder.io/qwik-city/lib/index.qwik.mjs_GetForm_component_form_onSubmit_1_xe8duyQ5aaU.js",
-				"node_modules/@builder.io/qwik-city/lib/index.qwik.mjs_GetForm_component_form_onSubmit_zpHcJzYZ88E.js",
-				"node_modules/@builder.io/qwik-city/lib/index.qwik.mjs_GetForm_component_pWsmcogutG8.js",
-				"node_modules/zod/lib/index.mjs"
-			],
-			"symbols": [
-				"s_pWsmcogutG8",
-				"s_xe8duyQ5aaU",
-				"s_zpHcJzYZ88E"
-			],
-			"interactivity": 2
-		},
-		"q-DRfIkNll.js": {
-			"size": 2317,
-			"total": 164948,
-			"imports": [
-				"q-CK_dj2ki.js",
-				"q-Dl36FNsg.js",
-				"q-Gd0iVcj2.js"
-			],
-			"origins": [
-				"node_modules/@builder.io/qwik-city/lib/index.qwik.mjs_Link_component_1raneLGffO8.js",
-				"node_modules/@builder.io/qwik-city/lib/index.qwik.mjs_Link_component_handleClick_FdQ8zERN4uM.js",
-				"node_modules/@builder.io/qwik-city/lib/index.qwik.mjs_Link_component_handlePrefetch_zPJUEsxZLIA.js",
-				"node_modules/@builder.io/qwik-city/lib/index.qwik.mjs_Link_component_useVisibleTask_35YlVmV10xA.js"
-			],
-			"symbols": [
-				"s_1raneLGffO8",
-				"s_35YlVmV10xA",
-				"s_FdQ8zERN4uM",
-				"s_zPJUEsxZLIA"
-			],
-			"interactivity": 3
-		},
-		"q-DWN0b8Pp.js": {
-			"size": 299,
-			"total": 76827,
-			"imports": [
-				"q-CK_dj2ki.js",
-				"q-Gd0iVcj2.js"
-			],
-			"dynamicImports": [
-				"q-DXWoxAYo.js"
-			],
-			"origins": [
-				"src/routes/resume/index.tsx"
-			],
-			"interactivity": 0
-		},
-		"q-DXWoxAYo.js": {
-			"size": 4766,
-			"total": 331429,
-			"imports": [
-				"q-CK_dj2ki.js",
-				"q-Dg_ncS5z.js",
-				"q-Dl36FNsg.js",
-				"q-Gd0iVcj2.js"
-			],
-			"origins": [
-				"src/routes/resume/index.tsx_resume_component_15mU0ByJI68.js",
-				"src/routes/resume/index.tsx_resume_component_useStylesScoped_VneRD5ws8AQ.js"
-			],
-			"symbols": [
-				"s_15mU0ByJI68",
-				"s_VneRD5ws8AQ"
 			],
 			"interactivity": 2
 		},
@@ -1263,41 +1283,21 @@
 			],
 			"interactivity": 2
 		},
-		"q-RTTBigzg.js": {
-			"size": 1006,
-			"total": 163637,
+		"q-So2fMhGj.js": {
+			"size": 1338,
+			"total": 163969,
 			"imports": [
 				"q-CK_dj2ki.js",
-				"q-Dl36FNsg.js",
+				"q-DczYArzj.js",
 				"q-Gd0iVcj2.js"
 			],
 			"origins": [
-				"node_modules/@builder.io/qwik-city/lib/index.qwik.mjs_RouterOutlet_component_ScE8eseirUA.js"
+				"node_modules/@builder.io/qwik-city/lib/index.qwik.mjs_serverQrl_rpc_WfTOxT4IrdA.js"
 			],
 			"symbols": [
-				"s_ScE8eseirUA"
+				"s_WfTOxT4IrdA"
 			],
-			"interactivity": 2
-		},
-		"q-WQoT-ReR.js": {
-			"size": 486,
-			"total": 163117,
-			"imports": [
-				"q-CK_dj2ki.js",
-				"q-Dl36FNsg.js",
-				"q-Gd0iVcj2.js"
-			],
-			"dynamicImports": [
-				"q--7XHQIgZ.js"
-			],
-			"origins": [
-				"src/components/router-head/router-head.tsx",
-				"src/root.tsx_root_component_tntnak2DhJ8.js"
-			],
-			"symbols": [
-				"s_tntnak2DhJ8"
-			],
-			"interactivity": 2
+			"interactivity": 1
 		}
 	},
 	"injections": [
@@ -1328,247 +1328,247 @@
 		"node": "22.15.1"
 	},
 	"bundleGraph": [
-		"q--7XHQIgZ.js",
-		38,
 		"q-4h1fVc6_.js",
-		54,
-		"q-B30i1H_e.js",
-		54,
-		-9,
 		58,
+		"q-7mpNhNrE.js",
+		36,
+		"q-AD6sTZiT.js",
+		36,
+		"q-Bd4ly-5n.js",
+		19,
 		"q-BRBr7aun.js",
-		"q-C2gvA8cm.js",
-		38,
-		"q-C389w-oM.js",
-		54,
+		"q-BY1TEMH2.js",
+		58,
 		-9,
-		30,
+		6,
 		"q-C5S8xZDW.js",
-		54,
+		58,
 		"q-C5VovkJ7.js",
-		54,
-		"q-CBmguQcj.js",
-		38,
-		"q-CgJNT6hf.js",
-		30,
-		-9,
-		26,
+		58,
+		"q-CdIcrjq6.js",
+		36,
+		"q-ChOLMUJp.js",
+		36,
 		"q-CK_dj2ki.js",
+		"q-ClQqka1c.js",
+		36,
+		"q-CoALfwuL.js",
+		58,
+		-9,
+		32,
 		"q-CPcoRYRm.js",
-		54,
-		"q-CuavQ0HY.js",
+		58,
+		"q-CUavC7kH.js",
+		36,
+		"q-DCPR7YCP.js",
+		36,
+		-9,
+		2,
+		"q-DczYArzj.js",
+		58,
+		-10,
+		4,
+		22,
+		-9,
 		30,
-		"q-Dg_ncS5z.js",
-		38,
-		"q-DGEsqE7p.js",
-		54,
+		8,
+		"q-DIiZ9uiJ.js",
+		19,
 		-9,
 		28,
-		"q-DhDjrEo-.js",
-		38,
-		"q-Dl36FNsg.js",
-		54,
-		-10,
+		"q-DO6PmrI4.js",
+		58,
+		-9,
 		19,
-		46,
+		"q-DrtCJqBl.js",
+		58,
 		-9,
 		56,
-		8,
-		"q-DRfIkNll.js",
-		38,
-		"q-DWN0b8Pp.js",
-		54,
-		-9,
-		52,
-		"q-DXWoxAYo.js",
-		30,
+		"q-DW2ukm1J.js",
+		19,
 		"q-Gd0iVcj2.js",
-		25,
-		"q-RTTBigzg.js",
-		38,
-		"q-WQoT-ReR.js",
-		38,
-		-9,
-		0,
+		21,
+		"q-So2fMhGj.js",
+		36,
 		"mLIFOUdv8bU",
 		-7,
-		26,
+		28,
 		"ralezJo7NVI",
 		-7,
-		26,
+		28,
 		"Ysfvd0zsHZc",
 		-8,
-		19,
+		4,
 		"26Zk9LevwR4",
 		-8,
-		2,
+		0,
 		"35YlVmV10xA",
 		-8,
-		46,
+		22,
 		"0AnGTiWLqSE",
 		-7,
-		26,
+		28,
 		"0vphQYqOdZI",
 		-7,
-		0,
+		2,
 		"15mU0ByJI68",
 		-7,
-		52,
+		6,
 		"1raneLGffO8",
 		-8,
-		46,
+		22,
 		"7cRGzx0I4TU",
 		-7,
-		28,
+		56,
 		"B0lqk5IDDy4",
 		-7,
-		30,
+		19,
 		"MiPVFWJLcMo",
 		-7,
-		36,
+		17,
 		"ScE8eseirUA",
 		-7,
-		56,
+		30,
 		"XVIkzjjNQ0w",
 		-7,
-		21,
+		44,
 		"bmV0oH7tsks",
 		-7,
-		54,
+		58,
 		"p1yCGpFL1xE",
 		-8,
-		19,
+		4,
 		"pWsmcogutG8",
 		-7,
-		38,
+		36,
 		"tntnak2DhJ8",
 		-7,
-		58,
+		32,
 		"0l91Nnb7qQk",
 		-7,
-		21,
+		44,
 		"5FEAdbBdQZk",
 		-7,
-		21,
+		44,
 		"Av0GO13Ht4U",
 		-7,
-		21,
+		44,
 		"HsrtLkfU6x4",
 		-7,
-		21,
+		44,
 		"IGUo7ZRYC04",
 		-7,
-		21,
+		44,
 		"IPvXxSWvDfg",
 		-7,
-		21,
+		44,
 		"PgUXYl4aURE",
 		-7,
-		21,
+		44,
 		"WLTOqUsshp4",
 		-7,
-		21,
+		44,
 		"XqqA2QJ3qX4",
 		-7,
-		21,
+		44,
 		"gRkv5OsTwac",
 		-7,
-		21,
+		44,
 		"jP0r07mvknE",
 		-7,
-		21,
+		44,
 		"l7QtfJFSufc",
 		-7,
-		21,
+		44,
 		"ljtDExb5PWQ",
 		-7,
-		21,
+		44,
 		"nDFmuFb7J0w",
 		-7,
-		21,
+		44,
 		"wpTL5FbvJtM",
 		-7,
-		21,
+		44,
 		"K4gvalEGCME",
 		-8,
-		19,
+		4,
 		"0eOS7JRHSNE",
 		-7,
-		21,
+		44,
 		"0r2ah6M2Ey8",
 		-7,
-		28,
+		56,
 		"5EtpcUU1Su0",
 		-7,
-		21,
+		44,
 		"7YdNvWawcjw",
 		-7,
-		21,
+		44,
 		"EZ0sJOWXjbk",
 		-7,
-		21,
+		44,
 		"RMkWYTMVxwY",
 		-7,
-		26,
+		28,
 		"RZTeGW9xgPs",
 		-7,
-		30,
+		19,
 		"VneRD5ws8AQ",
 		-7,
-		52,
+		6,
 		"fb64zWN7oII",
 		-7,
-		21,
+		44,
 		"xPD2nc91eFU",
 		-7,
-		21,
+		44,
 		"9KRx0IOCHt8",
 		-6,
 		8,
 		"A5SCimyrjAE",
 		-6,
-		17,
+		15,
 		"N26RLdG0oBg",
 		-6,
-		15,
+		13,
 		"WfTOxT4IrdA",
 		-6,
-		9,
+		60,
 		"FdQ8zERN4uM",
 		-8,
-		46,
+		22,
 		"Li8ELRw0vEg",
 		-7,
-		26,
+		28,
 		"PmWjL2RrvZM",
 		-7,
-		36,
+		17,
 		"US0pTyQnOdc",
 		-7,
-		54,
+		58,
 		"aww2BzpANGM",
 		-8,
-		19,
+		4,
 		"qGVD1Sz413o",
 		-8,
-		19,
+		4,
 		"xe8duyQ5aaU",
 		-7,
-		38,
+		36,
 		"zPJUEsxZLIA",
 		-8,
-		46,
+		22,
 		"zpHcJzYZ88E",
 		-7,
-		38,
+		36,
 		"/qwik/",
 		-5,
-		11,
+		48,
 		"qwik/portfolio/",
 		-5,
-		32,
+		52,
 		"qwik/resume/",
 		-5,
-		48
+		9
 	]
 }
