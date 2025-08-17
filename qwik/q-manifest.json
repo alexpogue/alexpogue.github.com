@@ -1,5 +1,5 @@
 {
-	"manifestHash": "9w4yf2",
+	"manifestHash": "gvyu07",
 	"symbols": {
 		"s_mLIFOUdv8bU": {
 			"origin": "components/image-slider/image-slider.tsx",
@@ -183,8 +183,8 @@
 			"ctxName": "component$",
 			"captures": false,
 			"loc": [
-				556,
-				9856
+				1166,
+				18337
 			]
 		},
 		"s_bmV0oH7tsks": {
@@ -249,8 +249,8 @@
 			"captures": false,
 			"parent": "s_XVIkzjjNQ0w",
 			"loc": [
-				1733,
-				2291
+				2360,
+				2918
 			]
 		},
 		"s_5FEAdbBdQZk": {
@@ -263,8 +263,22 @@
 			"captures": false,
 			"parent": "s_XVIkzjjNQ0w",
 			"loc": [
-				3069,
-				4007
+				3696,
+				4634
+			]
+		},
+		"s_Ah190hIUdKs": {
+			"origin": "routes/portfolio/newrelic/index.tsx",
+			"displayName": "index.tsx_newrelic_component_Slide17_component",
+			"canonicalFilename": "index.tsx_newrelic_component_Slide17_component_Ah190hIUdKs",
+			"hash": "Ah190hIUdKs",
+			"ctxKind": "function",
+			"ctxName": "component$",
+			"captures": false,
+			"parent": "s_XVIkzjjNQ0w",
+			"loc": [
+				10982,
+				11652
 			]
 		},
 		"s_Av0GO13Ht4U": {
@@ -277,8 +291,36 @@
 			"captures": false,
 			"parent": "s_XVIkzjjNQ0w",
 			"loc": [
-				660,
-				813
+				1270,
+				1440
+			]
+		},
+		"s_BtQ7lMoon2U": {
+			"origin": "routes/portfolio/newrelic/index.tsx",
+			"displayName": "index.tsx_newrelic_component_Slide16_component",
+			"canonicalFilename": "index.tsx_newrelic_component_Slide16_component_BtQ7lMoon2U",
+			"hash": "BtQ7lMoon2U",
+			"ctxKind": "function",
+			"ctxName": "component$",
+			"captures": false,
+			"parent": "s_XVIkzjjNQ0w",
+			"loc": [
+				10098,
+				10950
+			]
+		},
+		"s_G03xykFwZgY": {
+			"origin": "routes/portfolio/newrelic/index.tsx",
+			"displayName": "index.tsx_newrelic_component_Slide24_component",
+			"canonicalFilename": "index.tsx_newrelic_component_Slide24_component_G03xykFwZgY",
+			"hash": "G03xykFwZgY",
+			"ctxKind": "function",
+			"ctxName": "component$",
+			"captures": false,
+			"parent": "s_XVIkzjjNQ0w",
+			"loc": [
+				14043,
+				14499
 			]
 		},
 		"s_HsrtLkfU6x4": {
@@ -291,8 +333,8 @@
 			"captures": false,
 			"parent": "s_XVIkzjjNQ0w",
 			"loc": [
-				7545,
-				8196
+				8172,
+				8823
 			]
 		},
 		"s_IGUo7ZRYC04": {
@@ -305,8 +347,8 @@
 			"captures": false,
 			"parent": "s_XVIkzjjNQ0w",
 			"loc": [
-				2325,
-				2828
+				2952,
+				3455
 			]
 		},
 		"s_IPvXxSWvDfg": {
@@ -319,8 +361,36 @@
 			"captures": false,
 			"parent": "s_XVIkzjjNQ0w",
 			"loc": [
-				5291,
-				5955
+				5918,
+				6582
+			]
+		},
+		"s_Jwjyazdlp4A": {
+			"origin": "routes/portfolio/newrelic/index.tsx",
+			"displayName": "index.tsx_newrelic_component_Slide29_component",
+			"canonicalFilename": "index.tsx_newrelic_component_Slide29_component_Jwjyazdlp4A",
+			"hash": "Jwjyazdlp4A",
+			"ctxKind": "function",
+			"ctxName": "component$",
+			"captures": false,
+			"parent": "s_XVIkzjjNQ0w",
+			"loc": [
+				16020,
+				16488
+			]
+		},
+		"s_KlNhHhtL0DU": {
+			"origin": "routes/portfolio/newrelic/index.tsx",
+			"displayName": "index.tsx_newrelic_component_Slide19_component",
+			"canonicalFilename": "index.tsx_newrelic_component_Slide19_component_KlNhHhtL0DU",
+			"hash": "KlNhHhtL0DU",
+			"ctxKind": "function",
+			"ctxName": "component$",
+			"captures": false,
+			"parent": "s_XVIkzjjNQ0w",
+			"loc": [
+				12118,
+				12275
 			]
 		},
 		"s_PgUXYl4aURE": {
@@ -333,8 +403,36 @@
 			"captures": false,
 			"parent": "s_XVIkzjjNQ0w",
 			"loc": [
-				6802,
-				7510
+				7429,
+				8137
+			]
+		},
+		"s_TBUkS5WHS4g": {
+			"origin": "routes/portfolio/newrelic/index.tsx",
+			"displayName": "index.tsx_newrelic_component_Slide18_component",
+			"canonicalFilename": "index.tsx_newrelic_component_Slide18_component_TBUkS5WHS4g",
+			"hash": "TBUkS5WHS4g",
+			"ctxKind": "function",
+			"ctxName": "component$",
+			"captures": false,
+			"parent": "s_XVIkzjjNQ0w",
+			"loc": [
+				11687,
+				12086
+			]
+		},
+		"s_UVaVDWBinHs": {
+			"origin": "routes/portfolio/newrelic/index.tsx",
+			"displayName": "index.tsx_newrelic_component_Slide20_component",
+			"canonicalFilename": "index.tsx_newrelic_component_Slide20_component_UVaVDWBinHs",
+			"hash": "UVaVDWBinHs",
+			"ctxKind": "function",
+			"ctxName": "component$",
+			"captures": false,
+			"parent": "s_XVIkzjjNQ0w",
+			"loc": [
+				12310,
+				12583
 			]
 		},
 		"s_WLTOqUsshp4": {
@@ -347,8 +445,8 @@
 			"captures": false,
 			"parent": "s_XVIkzjjNQ0w",
 			"loc": [
-				4038,
-				5260
+				4665,
+				5887
 			]
 		},
 		"s_XqqA2QJ3qX4": {
@@ -361,8 +459,50 @@
 			"captures": false,
 			"parent": "s_XVIkzjjNQ0w",
 			"loc": [
-				5987,
-				6770
+				6614,
+				7397
+			]
+		},
+		"s_XvaNpJjyLrc": {
+			"origin": "routes/portfolio/newrelic/index.tsx",
+			"displayName": "index.tsx_newrelic_component_Slide21_component",
+			"canonicalFilename": "index.tsx_newrelic_component_Slide21_component_XvaNpJjyLrc",
+			"hash": "XvaNpJjyLrc",
+			"ctxKind": "function",
+			"ctxName": "component$",
+			"captures": false,
+			"parent": "s_XVIkzjjNQ0w",
+			"loc": [
+				12618,
+				13027
+			]
+		},
+		"s_fyrBxgmPMys": {
+			"origin": "routes/portfolio/newrelic/index.tsx",
+			"displayName": "index.tsx_newrelic_component_Slide28_component",
+			"canonicalFilename": "index.tsx_newrelic_component_Slide28_component_fyrBxgmPMys",
+			"hash": "fyrBxgmPMys",
+			"ctxKind": "function",
+			"ctxName": "component$",
+			"captures": false,
+			"parent": "s_XVIkzjjNQ0w",
+			"loc": [
+				15637,
+				15985
+			]
+		},
+		"s_g4Gz8LKMm5s": {
+			"origin": "routes/portfolio/newrelic/index.tsx",
+			"displayName": "index.tsx_newrelic_component_Slide27_component",
+			"canonicalFilename": "index.tsx_newrelic_component_Slide27_component_g4Gz8LKMm5s",
+			"hash": "g4Gz8LKMm5s",
+			"ctxKind": "function",
+			"ctxName": "component$",
+			"captures": false,
+			"parent": "s_XVIkzjjNQ0w",
+			"loc": [
+				15475,
+				15602
 			]
 		},
 		"s_gRkv5OsTwac": {
@@ -375,8 +515,8 @@
 			"captures": false,
 			"parent": "s_XVIkzjjNQ0w",
 			"loc": [
-				8228,
-				8338
+				8855,
+				9457
 			]
 		},
 		"s_jP0r07mvknE": {
@@ -389,8 +529,22 @@
 			"captures": false,
 			"parent": "s_XVIkzjjNQ0w",
 			"loc": [
-				2862,
-				3035
+				3489,
+				3662
+			]
+		},
+		"s_juvXTEm8qyQ": {
+			"origin": "routes/portfolio/newrelic/index.tsx",
+			"displayName": "index.tsx_newrelic_component_Slide22_component",
+			"canonicalFilename": "index.tsx_newrelic_component_Slide22_component_juvXTEm8qyQ",
+			"hash": "juvXTEm8qyQ",
+			"ctxKind": "function",
+			"ctxName": "component$",
+			"captures": false,
+			"parent": "s_XVIkzjjNQ0w",
+			"loc": [
+				13062,
+				13858
 			]
 		},
 		"s_l7QtfJFSufc": {
@@ -403,8 +557,8 @@
 			"captures": false,
 			"parent": "s_XVIkzjjNQ0w",
 			"loc": [
-				847,
-				1014
+				1474,
+				1641
 			]
 		},
 		"s_ljtDExb5PWQ": {
@@ -417,8 +571,8 @@
 			"captures": false,
 			"parent": "s_XVIkzjjNQ0w",
 			"loc": [
-				8521,
-				8671
+				9913,
+				10063
 			]
 		},
 		"s_nDFmuFb7J0w": {
@@ -431,8 +585,64 @@
 			"captures": false,
 			"parent": "s_XVIkzjjNQ0w",
 			"loc": [
-				1048,
-				1699
+				1675,
+				2326
+			]
+		},
+		"s_nTJ27GjaKeU": {
+			"origin": "routes/portfolio/newrelic/index.tsx",
+			"displayName": "index.tsx_newrelic_component_Slide26_component",
+			"canonicalFilename": "index.tsx_newrelic_component_Slide26_component_nTJ27GjaKeU",
+			"hash": "nTJ27GjaKeU",
+			"ctxKind": "function",
+			"ctxName": "component$",
+			"captures": false,
+			"parent": "s_XVIkzjjNQ0w",
+			"loc": [
+				15112,
+				15440
+			]
+		},
+		"s_sFUDo0n4G7I": {
+			"origin": "routes/portfolio/newrelic/index.tsx",
+			"displayName": "index.tsx_newrelic_component_Slide30_component",
+			"canonicalFilename": "index.tsx_newrelic_component_Slide30_component_sFUDo0n4G7I",
+			"hash": "sFUDo0n4G7I",
+			"ctxKind": "function",
+			"ctxName": "component$",
+			"captures": false,
+			"parent": "s_XVIkzjjNQ0w",
+			"loc": [
+				16523,
+				16838
+			]
+		},
+		"s_te0mQ1Wky04": {
+			"origin": "routes/portfolio/newrelic/index.tsx",
+			"displayName": "index.tsx_newrelic_component_Slide23_component",
+			"canonicalFilename": "index.tsx_newrelic_component_Slide23_component_te0mQ1Wky04",
+			"hash": "te0mQ1Wky04",
+			"ctxKind": "function",
+			"ctxName": "component$",
+			"captures": false,
+			"parent": "s_XVIkzjjNQ0w",
+			"loc": [
+				13890,
+				14008
+			]
+		},
+		"s_v7HJK2GTZag": {
+			"origin": "routes/portfolio/newrelic/index.tsx",
+			"displayName": "index.tsx_newrelic_component_Slide25_component",
+			"canonicalFilename": "index.tsx_newrelic_component_Slide25_component_v7HJK2GTZag",
+			"hash": "v7HJK2GTZag",
+			"ctxKind": "function",
+			"ctxName": "component$",
+			"captures": false,
+			"parent": "s_XVIkzjjNQ0w",
+			"loc": [
+				14534,
+				15077
 			]
 		},
 		"s_wpTL5FbvJtM": {
@@ -445,8 +655,8 @@
 			"captures": false,
 			"parent": "s_XVIkzjjNQ0w",
 			"loc": [
-				8373,
-				8486
+				9489,
+				9881
 			]
 		},
 		"s_K4gvalEGCME": {
@@ -473,8 +683,8 @@
 			"captures": false,
 			"parent": "s_HsrtLkfU6x4",
 			"loc": [
-				7574,
-				7586
+				8201,
+				8213
 			]
 		},
 		"s_0r2ah6M2Ey8": {
@@ -501,8 +711,8 @@
 			"captures": false,
 			"parent": "s_WLTOqUsshp4",
 			"loc": [
-				4068,
-				4080
+				4695,
+				4707
 			]
 		},
 		"s_7YdNvWawcjw": {
@@ -515,8 +725,8 @@
 			"captures": false,
 			"parent": "s_IPvXxSWvDfg",
 			"loc": [
-				5320,
-				5332
+				5947,
+				5959
 			]
 		},
 		"s_EZ0sJOWXjbk": {
@@ -529,8 +739,50 @@
 			"captures": false,
 			"parent": "s_XVIkzjjNQ0w",
 			"loc": [
-				583,
-				589
+				1193,
+				1199
+			]
+		},
+		"s_Hnm0gxiYrUA": {
+			"origin": "routes/portfolio/newrelic/index.tsx",
+			"displayName": "index.tsx_newrelic_component_Slide16_component_useStylesScoped",
+			"canonicalFilename": "index.tsx_newrelic_component_Slide16_component_useStylesScoped_Hnm0gxiYrUA",
+			"hash": "Hnm0gxiYrUA",
+			"ctxKind": "function",
+			"ctxName": "useStylesScoped$",
+			"captures": false,
+			"parent": "s_BtQ7lMoon2U",
+			"loc": [
+				10127,
+				10139
+			]
+		},
+		"s_JlTv103ugbs": {
+			"origin": "routes/portfolio/newrelic/index.tsx",
+			"displayName": "index.tsx_newrelic_component_Slide14_component_useStylesScoped",
+			"canonicalFilename": "index.tsx_newrelic_component_Slide14_component_useStylesScoped_JlTv103ugbs",
+			"hash": "JlTv103ugbs",
+			"ctxKind": "function",
+			"ctxName": "useStylesScoped$",
+			"captures": false,
+			"parent": "s_wpTL5FbvJtM",
+			"loc": [
+				9518,
+				9530
+			]
+		},
+		"s_JxN65mrYvZU": {
+			"origin": "routes/portfolio/newrelic/index.tsx",
+			"displayName": "index.tsx_newrelic_component_Slide13_component_useStylesScoped",
+			"canonicalFilename": "index.tsx_newrelic_component_Slide13_component_useStylesScoped_JxN65mrYvZU",
+			"hash": "JxN65mrYvZU",
+			"ctxKind": "function",
+			"ctxName": "useStylesScoped$",
+			"captures": false,
+			"parent": "s_gRkv5OsTwac",
+			"loc": [
+				8884,
+				8896
 			]
 		},
 		"s_RMkWYTMVxwY": {
@@ -585,8 +837,36 @@
 			"captures": false,
 			"parent": "s_XqqA2QJ3qX4",
 			"loc": [
-				6016,
-				6028
+				6643,
+				6655
+			]
+		},
+		"s_kVD72zCiUbA": {
+			"origin": "routes/portfolio/newrelic/index.tsx",
+			"displayName": "index.tsx_newrelic_component_Slide18_component_useStylesScoped",
+			"canonicalFilename": "index.tsx_newrelic_component_Slide18_component_useStylesScoped_kVD72zCiUbA",
+			"hash": "kVD72zCiUbA",
+			"ctxKind": "function",
+			"ctxName": "useStylesScoped$",
+			"captures": false,
+			"parent": "s_TBUkS5WHS4g",
+			"loc": [
+				11716,
+				11728
+			]
+		},
+		"s_rUSt9LsdS0I": {
+			"origin": "routes/portfolio/newrelic/index.tsx",
+			"displayName": "index.tsx_newrelic_component_Slide22_component_useStylesScoped",
+			"canonicalFilename": "index.tsx_newrelic_component_Slide22_component_useStylesScoped_rUSt9LsdS0I",
+			"hash": "rUSt9LsdS0I",
+			"ctxKind": "function",
+			"ctxName": "useStylesScoped$",
+			"captures": false,
+			"parent": "s_juvXTEm8qyQ",
+			"loc": [
+				13091,
+				13103
 			]
 		},
 		"s_xPD2nc91eFU": {
@@ -599,8 +879,8 @@
 			"captures": false,
 			"parent": "s_5FEAdbBdQZk",
 			"loc": [
-				3099,
-				3111
+				3726,
+				3738
 			]
 		},
 		"s_9KRx0IOCHt8": {
@@ -783,63 +1063,83 @@
 		}
 	},
 	"mapping": {
-		"s_mLIFOUdv8bU": "q-CPcoRYRm.js",
-		"s_ralezJo7NVI": "q-CPcoRYRm.js",
-		"s_Ysfvd0zsHZc": "q-AD6sTZiT.js",
+		"s_mLIFOUdv8bU": "q-cKDcMbqO.js",
+		"s_ralezJo7NVI": "q-cKDcMbqO.js",
+		"s_Ysfvd0zsHZc": "q-CTdfTY6-.js",
 		"s_26Zk9LevwR4": "q-4h1fVc6_.js",
-		"s_35YlVmV10xA": "q-ClQqka1c.js",
-		"s_0AnGTiWLqSE": "q-CPcoRYRm.js",
-		"s_0vphQYqOdZI": "q-7mpNhNrE.js",
-		"s_15mU0ByJI68": "q-Bd4ly-5n.js",
-		"s_1raneLGffO8": "q-ClQqka1c.js",
-		"s_7cRGzx0I4TU": "q-DW2ukm1J.js",
-		"s_B0lqk5IDDy4": "q-ChOLMUJp.js",
-		"s_MiPVFWJLcMo": "q-CdIcrjq6.js",
-		"s_ScE8eseirUA": "q-CUavC7kH.js",
-		"s_XVIkzjjNQ0w": "q-DIiZ9uiJ.js",
+		"s_35YlVmV10xA": "q-Dahu_ae8.js",
+		"s_0AnGTiWLqSE": "q-cKDcMbqO.js",
+		"s_0vphQYqOdZI": "q-B1QokYo5.js",
+		"s_15mU0ByJI68": "q-CuJtkrJc.js",
+		"s_1raneLGffO8": "q-Dahu_ae8.js",
+		"s_7cRGzx0I4TU": "q-Cvc3td3c.js",
+		"s_B0lqk5IDDy4": "q-b3sP173y.js",
+		"s_MiPVFWJLcMo": "q-CNyfsBPv.js",
+		"s_ScE8eseirUA": "q-DCIygfEr.js",
+		"s_XVIkzjjNQ0w": "q-BbiU-epj.js",
 		"s_bmV0oH7tsks": "q-Gd0iVcj2.js",
-		"s_p1yCGpFL1xE": "q-AD6sTZiT.js",
-		"s_pWsmcogutG8": "q-DczYArzj.js",
-		"s_tntnak2DhJ8": "q-DCPR7YCP.js",
-		"s_0l91Nnb7qQk": "q-DIiZ9uiJ.js",
-		"s_5FEAdbBdQZk": "q-DIiZ9uiJ.js",
-		"s_Av0GO13Ht4U": "q-DIiZ9uiJ.js",
-		"s_HsrtLkfU6x4": "q-DIiZ9uiJ.js",
-		"s_IGUo7ZRYC04": "q-DIiZ9uiJ.js",
-		"s_IPvXxSWvDfg": "q-DIiZ9uiJ.js",
-		"s_PgUXYl4aURE": "q-DIiZ9uiJ.js",
-		"s_WLTOqUsshp4": "q-DIiZ9uiJ.js",
-		"s_XqqA2QJ3qX4": "q-DIiZ9uiJ.js",
-		"s_gRkv5OsTwac": "q-DIiZ9uiJ.js",
-		"s_jP0r07mvknE": "q-DIiZ9uiJ.js",
-		"s_l7QtfJFSufc": "q-DIiZ9uiJ.js",
-		"s_ljtDExb5PWQ": "q-DIiZ9uiJ.js",
-		"s_nDFmuFb7J0w": "q-DIiZ9uiJ.js",
-		"s_wpTL5FbvJtM": "q-DIiZ9uiJ.js",
-		"s_K4gvalEGCME": "q-AD6sTZiT.js",
-		"s_0eOS7JRHSNE": "q-DIiZ9uiJ.js",
-		"s_0r2ah6M2Ey8": "q-DW2ukm1J.js",
-		"s_5EtpcUU1Su0": "q-DIiZ9uiJ.js",
-		"s_7YdNvWawcjw": "q-DIiZ9uiJ.js",
-		"s_EZ0sJOWXjbk": "q-DIiZ9uiJ.js",
-		"s_RMkWYTMVxwY": "q-CPcoRYRm.js",
-		"s_RZTeGW9xgPs": "q-ChOLMUJp.js",
-		"s_VneRD5ws8AQ": "q-Bd4ly-5n.js",
-		"s_fb64zWN7oII": "q-DIiZ9uiJ.js",
-		"s_xPD2nc91eFU": "q-DIiZ9uiJ.js",
+		"s_p1yCGpFL1xE": "q-CTdfTY6-.js",
+		"s_pWsmcogutG8": "q-BloFoWrO.js",
+		"s_tntnak2DhJ8": "q-COI8B_is.js",
+		"s_0l91Nnb7qQk": "q-BbiU-epj.js",
+		"s_5FEAdbBdQZk": "q-BbiU-epj.js",
+		"s_Ah190hIUdKs": "q-BbiU-epj.js",
+		"s_Av0GO13Ht4U": "q-BbiU-epj.js",
+		"s_BtQ7lMoon2U": "q-BbiU-epj.js",
+		"s_G03xykFwZgY": "q-BbiU-epj.js",
+		"s_HsrtLkfU6x4": "q-BbiU-epj.js",
+		"s_IGUo7ZRYC04": "q-BbiU-epj.js",
+		"s_IPvXxSWvDfg": "q-BbiU-epj.js",
+		"s_Jwjyazdlp4A": "q-BbiU-epj.js",
+		"s_KlNhHhtL0DU": "q-BbiU-epj.js",
+		"s_PgUXYl4aURE": "q-BbiU-epj.js",
+		"s_TBUkS5WHS4g": "q-BbiU-epj.js",
+		"s_UVaVDWBinHs": "q-BbiU-epj.js",
+		"s_WLTOqUsshp4": "q-BbiU-epj.js",
+		"s_XqqA2QJ3qX4": "q-BbiU-epj.js",
+		"s_XvaNpJjyLrc": "q-BbiU-epj.js",
+		"s_fyrBxgmPMys": "q-BbiU-epj.js",
+		"s_g4Gz8LKMm5s": "q-BbiU-epj.js",
+		"s_gRkv5OsTwac": "q-BbiU-epj.js",
+		"s_jP0r07mvknE": "q-BbiU-epj.js",
+		"s_juvXTEm8qyQ": "q-BbiU-epj.js",
+		"s_l7QtfJFSufc": "q-BbiU-epj.js",
+		"s_ljtDExb5PWQ": "q-BbiU-epj.js",
+		"s_nDFmuFb7J0w": "q-BbiU-epj.js",
+		"s_nTJ27GjaKeU": "q-BbiU-epj.js",
+		"s_sFUDo0n4G7I": "q-BbiU-epj.js",
+		"s_te0mQ1Wky04": "q-BbiU-epj.js",
+		"s_v7HJK2GTZag": "q-BbiU-epj.js",
+		"s_wpTL5FbvJtM": "q-BbiU-epj.js",
+		"s_K4gvalEGCME": "q-CTdfTY6-.js",
+		"s_0eOS7JRHSNE": "q-BbiU-epj.js",
+		"s_0r2ah6M2Ey8": "q-Cvc3td3c.js",
+		"s_5EtpcUU1Su0": "q-BbiU-epj.js",
+		"s_7YdNvWawcjw": "q-BbiU-epj.js",
+		"s_EZ0sJOWXjbk": "q-BbiU-epj.js",
+		"s_Hnm0gxiYrUA": "q-BbiU-epj.js",
+		"s_JlTv103ugbs": "q-BbiU-epj.js",
+		"s_JxN65mrYvZU": "q-BbiU-epj.js",
+		"s_RMkWYTMVxwY": "q-cKDcMbqO.js",
+		"s_RZTeGW9xgPs": "q-b3sP173y.js",
+		"s_VneRD5ws8AQ": "q-CuJtkrJc.js",
+		"s_fb64zWN7oII": "q-BbiU-epj.js",
+		"s_kVD72zCiUbA": "q-BbiU-epj.js",
+		"s_rUSt9LsdS0I": "q-BbiU-epj.js",
+		"s_xPD2nc91eFU": "q-BbiU-epj.js",
 		"s_9KRx0IOCHt8": "q-BRBr7aun.js",
 		"s_A5SCimyrjAE": "q-C5VovkJ7.js",
 		"s_N26RLdG0oBg": "q-C5S8xZDW.js",
-		"s_WfTOxT4IrdA": "q-So2fMhGj.js",
-		"s_FdQ8zERN4uM": "q-ClQqka1c.js",
-		"s_Li8ELRw0vEg": "q-CPcoRYRm.js",
-		"s_PmWjL2RrvZM": "q-CdIcrjq6.js",
+		"s_WfTOxT4IrdA": "q-CMeZBQfB.js",
+		"s_FdQ8zERN4uM": "q-Dahu_ae8.js",
+		"s_Li8ELRw0vEg": "q-cKDcMbqO.js",
+		"s_PmWjL2RrvZM": "q-CNyfsBPv.js",
 		"s_US0pTyQnOdc": "q-Gd0iVcj2.js",
-		"s_aww2BzpANGM": "q-AD6sTZiT.js",
-		"s_qGVD1Sz413o": "q-AD6sTZiT.js",
-		"s_xe8duyQ5aaU": "q-DczYArzj.js",
-		"s_zPJUEsxZLIA": "q-ClQqka1c.js",
-		"s_zpHcJzYZ88E": "q-DczYArzj.js"
+		"s_aww2BzpANGM": "q-CTdfTY6-.js",
+		"s_qGVD1Sz413o": "q-CTdfTY6-.js",
+		"s_xe8duyQ5aaU": "q-BloFoWrO.js",
+		"s_zPJUEsxZLIA": "q-Dahu_ae8.js",
+		"s_zpHcJzYZ88E": "q-BloFoWrO.js"
 	},
 	"bundles": {
 		"q-4h1fVc6_.js": {
@@ -857,12 +1157,12 @@
 			],
 			"interactivity": 3
 		},
-		"q-7mpNhNrE.js": {
+		"q-B1QokYo5.js": {
 			"size": 899,
 			"total": 163530,
 			"imports": [
+				"q-BloFoWrO.js",
 				"q-CK_dj2ki.js",
-				"q-DczYArzj.js",
 				"q-Gd0iVcj2.js"
 			],
 			"origins": [
@@ -873,55 +1173,196 @@
 			],
 			"interactivity": 2
 		},
-		"q-AD6sTZiT.js": {
-			"size": 7043,
-			"total": 169674,
+		"q-b3sP173y.js": {
+			"size": 1401,
+			"total": 164032,
+			"imports": [
+				"q-BloFoWrO.js",
+				"q-CK_dj2ki.js",
+				"q-Gd0iVcj2.js"
+			],
+			"origins": [
+				"src/assets/alex-pogue-profile.png",
+				"src/routes/index.css?inline",
+				"src/routes/index.tsx_routes_component_B0lqk5IDDy4.js",
+				"src/routes/index.tsx_routes_component_useStylesScoped_RZTeGW9xgPs.js"
+			],
+			"symbols": [
+				"s_B0lqk5IDDy4",
+				"s_RZTeGW9xgPs"
+			],
+			"interactivity": 2
+		},
+		"q-BA2zPuVk.js": {
+			"size": 171,
+			"total": 76699,
 			"imports": [
 				"q-CK_dj2ki.js",
-				"q-DczYArzj.js",
 				"q-Gd0iVcj2.js"
 			],
 			"dynamicImports": [
-				"q-BY1TEMH2.js",
-				"q-DIiZ9uiJ.js",
-				"q-DO6PmrI4.js",
-				"q-DrtCJqBl.js"
+				"q-COI8B_is.js"
 			],
 			"origins": [
-				"@qwik-city-plan",
-				"node_modules/@builder.io/qwik-city/lib/index.qwik.mjs_QwikCityProvider_component_goto_aww2BzpANGM.js",
-				"node_modules/@builder.io/qwik-city/lib/index.qwik.mjs_QwikCityProvider_component_p1yCGpFL1xE.js",
-				"node_modules/@builder.io/qwik-city/lib/index.qwik.mjs_QwikCityProvider_component_registerPreventNav_qGVD1Sz413o.js",
-				"node_modules/@builder.io/qwik-city/lib/index.qwik.mjs_QwikCityProvider_component_useStyles_K4gvalEGCME.js",
-				"node_modules/@builder.io/qwik-city/lib/index.qwik.mjs_QwikCityProvider_component_useTask_Ysfvd0zsHZc.js"
+				"src/global.css",
+				"src/root.tsx"
 			],
-			"symbols": [
-				"s_aww2BzpANGM",
-				"s_K4gvalEGCME",
-				"s_p1yCGpFL1xE",
-				"s_qGVD1Sz413o",
-				"s_Ysfvd0zsHZc"
-			],
-			"interactivity": 3
+			"interactivity": 0
 		},
-		"q-Bd4ly-5n.js": {
-			"size": 4768,
-			"total": 331431,
+		"q-BbiU-epj.js": {
+			"size": 26791,
+			"total": 353454,
 			"imports": [
-				"q-ChOLMUJp.js",
+				"q-b3sP173y.js",
+				"q-BloFoWrO.js",
 				"q-CK_dj2ki.js",
-				"q-DczYArzj.js",
 				"q-Gd0iVcj2.js"
 			],
+			"dynamicImports": [
+				"q-cKDcMbqO.js"
+			],
 			"origins": [
-				"src/routes/resume/index.tsx_resume_component_15mU0ByJI68.js",
-				"src/routes/resume/index.tsx_resume_component_useStylesScoped_VneRD5ws8AQ.js"
+				"src/assets/portfolio_monitor_graphite_metrics_graph.png",
+				"src/assets/portfolio_monitor_newrelic_metrics_graph.png",
+				"src/assets/portfolio_monitor_newrelic_resolve.png",
+				"src/assets/portfolio_monitor_newrelic_trigger.png",
+				"src/assets/portfolio_monitor_newrelicinfra_metrics_graph.png",
+				"src/assets/portfolio_monitor_seyren_resolve.png",
+				"src/assets/portfolio_monitor_seyren_trigger.png",
+				"src/components/image-slider/image-slider.tsx",
+				"src/routes/portfolio/newrelic/columns.css?inline",
+				"src/routes/portfolio/newrelic/index.tsx",
+				"src/routes/portfolio/newrelic/index.tsx_newrelic_component_Slide10_component_XqqA2QJ3qX4.js",
+				"src/routes/portfolio/newrelic/index.tsx_newrelic_component_Slide10_component_useStylesScoped_fb64zWN7oII.js",
+				"src/routes/portfolio/newrelic/index.tsx_newrelic_component_Slide11_component_PgUXYl4aURE.js",
+				"src/routes/portfolio/newrelic/index.tsx_newrelic_component_Slide12_component_HsrtLkfU6x4.js",
+				"src/routes/portfolio/newrelic/index.tsx_newrelic_component_Slide12_component_useStylesScoped_0eOS7JRHSNE.js",
+				"src/routes/portfolio/newrelic/index.tsx_newrelic_component_Slide13_component_gRkv5OsTwac.js",
+				"src/routes/portfolio/newrelic/index.tsx_newrelic_component_Slide13_component_useStylesScoped_JxN65mrYvZU.js",
+				"src/routes/portfolio/newrelic/index.tsx_newrelic_component_Slide14_component_useStylesScoped_JlTv103ugbs.js",
+				"src/routes/portfolio/newrelic/index.tsx_newrelic_component_Slide14_component_wpTL5FbvJtM.js",
+				"src/routes/portfolio/newrelic/index.tsx_newrelic_component_Slide15_component_ljtDExb5PWQ.js",
+				"src/routes/portfolio/newrelic/index.tsx_newrelic_component_Slide16_component_BtQ7lMoon2U.js",
+				"src/routes/portfolio/newrelic/index.tsx_newrelic_component_Slide16_component_useStylesScoped_Hnm0gxiYrUA.js",
+				"src/routes/portfolio/newrelic/index.tsx_newrelic_component_Slide17_component_Ah190hIUdKs.js",
+				"src/routes/portfolio/newrelic/index.tsx_newrelic_component_Slide18_component_TBUkS5WHS4g.js",
+				"src/routes/portfolio/newrelic/index.tsx_newrelic_component_Slide18_component_useStylesScoped_kVD72zCiUbA.js",
+				"src/routes/portfolio/newrelic/index.tsx_newrelic_component_Slide19_component_KlNhHhtL0DU.js",
+				"src/routes/portfolio/newrelic/index.tsx_newrelic_component_Slide1_component_Av0GO13Ht4U.js",
+				"src/routes/portfolio/newrelic/index.tsx_newrelic_component_Slide20_component_UVaVDWBinHs.js",
+				"src/routes/portfolio/newrelic/index.tsx_newrelic_component_Slide21_component_XvaNpJjyLrc.js",
+				"src/routes/portfolio/newrelic/index.tsx_newrelic_component_Slide22_component_juvXTEm8qyQ.js",
+				"src/routes/portfolio/newrelic/index.tsx_newrelic_component_Slide22_component_useStylesScoped_rUSt9LsdS0I.js",
+				"src/routes/portfolio/newrelic/index.tsx_newrelic_component_Slide23_component_te0mQ1Wky04.js",
+				"src/routes/portfolio/newrelic/index.tsx_newrelic_component_Slide24_component_G03xykFwZgY.js",
+				"src/routes/portfolio/newrelic/index.tsx_newrelic_component_Slide25_component_v7HJK2GTZag.js",
+				"src/routes/portfolio/newrelic/index.tsx_newrelic_component_Slide26_component_nTJ27GjaKeU.js",
+				"src/routes/portfolio/newrelic/index.tsx_newrelic_component_Slide27_component_g4Gz8LKMm5s.js",
+				"src/routes/portfolio/newrelic/index.tsx_newrelic_component_Slide28_component_fyrBxgmPMys.js",
+				"src/routes/portfolio/newrelic/index.tsx_newrelic_component_Slide29_component_Jwjyazdlp4A.js",
+				"src/routes/portfolio/newrelic/index.tsx_newrelic_component_Slide2_component_l7QtfJFSufc.js",
+				"src/routes/portfolio/newrelic/index.tsx_newrelic_component_Slide30_component_sFUDo0n4G7I.js",
+				"src/routes/portfolio/newrelic/index.tsx_newrelic_component_Slide3_component_nDFmuFb7J0w.js",
+				"src/routes/portfolio/newrelic/index.tsx_newrelic_component_Slide4_component_0l91Nnb7qQk.js",
+				"src/routes/portfolio/newrelic/index.tsx_newrelic_component_Slide5_component_IGUo7ZRYC04.js",
+				"src/routes/portfolio/newrelic/index.tsx_newrelic_component_Slide6_component_jP0r07mvknE.js",
+				"src/routes/portfolio/newrelic/index.tsx_newrelic_component_Slide7_component_5FEAdbBdQZk.js",
+				"src/routes/portfolio/newrelic/index.tsx_newrelic_component_Slide7_component_useStylesScoped_xPD2nc91eFU.js",
+				"src/routes/portfolio/newrelic/index.tsx_newrelic_component_Slide8_component_WLTOqUsshp4.js",
+				"src/routes/portfolio/newrelic/index.tsx_newrelic_component_Slide8_component_useStylesScoped_5EtpcUU1Su0.js",
+				"src/routes/portfolio/newrelic/index.tsx_newrelic_component_Slide9_component_IPvXxSWvDfg.js",
+				"src/routes/portfolio/newrelic/index.tsx_newrelic_component_Slide9_component_useStylesScoped_7YdNvWawcjw.js",
+				"src/routes/portfolio/newrelic/index.tsx_newrelic_component_XVIkzjjNQ0w.js",
+				"src/routes/portfolio/newrelic/index.tsx_newrelic_component_useStylesScoped_EZ0sJOWXjbk.js"
 			],
 			"symbols": [
-				"s_15mU0ByJI68",
-				"s_VneRD5ws8AQ"
+				"s_0eOS7JRHSNE",
+				"s_0l91Nnb7qQk",
+				"s_5EtpcUU1Su0",
+				"s_5FEAdbBdQZk",
+				"s_7YdNvWawcjw",
+				"s_Ah190hIUdKs",
+				"s_Av0GO13Ht4U",
+				"s_BtQ7lMoon2U",
+				"s_EZ0sJOWXjbk",
+				"s_fb64zWN7oII",
+				"s_fyrBxgmPMys",
+				"s_G03xykFwZgY",
+				"s_g4Gz8LKMm5s",
+				"s_gRkv5OsTwac",
+				"s_Hnm0gxiYrUA",
+				"s_HsrtLkfU6x4",
+				"s_IGUo7ZRYC04",
+				"s_IPvXxSWvDfg",
+				"s_JlTv103ugbs",
+				"s_jP0r07mvknE",
+				"s_juvXTEm8qyQ",
+				"s_Jwjyazdlp4A",
+				"s_JxN65mrYvZU",
+				"s_KlNhHhtL0DU",
+				"s_kVD72zCiUbA",
+				"s_l7QtfJFSufc",
+				"s_ljtDExb5PWQ",
+				"s_nDFmuFb7J0w",
+				"s_nTJ27GjaKeU",
+				"s_PgUXYl4aURE",
+				"s_rUSt9LsdS0I",
+				"s_sFUDo0n4G7I",
+				"s_TBUkS5WHS4g",
+				"s_te0mQ1Wky04",
+				"s_UVaVDWBinHs",
+				"s_v7HJK2GTZag",
+				"s_WLTOqUsshp4",
+				"s_wpTL5FbvJtM",
+				"s_xPD2nc91eFU",
+				"s_XqqA2QJ3qX4",
+				"s_XvaNpJjyLrc",
+				"s_XVIkzjjNQ0w"
 			],
 			"interactivity": 2
+		},
+		"q-BloFoWrO.js": {
+			"size": 9575,
+			"total": 86103,
+			"imports": [
+				"q-CK_dj2ki.js",
+				"q-Gd0iVcj2.js"
+			],
+			"dynamicImports": [
+				"q-BRBr7aun.js",
+				"q-CTdfTY6-.js",
+				"q-Dahu_ae8.js",
+				"q-DCIygfEr.js"
+			],
+			"origins": [
+				"@qwik-city-sw-register",
+				"node_modules/@builder.io/qwik-city/lib/index.qwik.mjs",
+				"node_modules/@builder.io/qwik-city/lib/index.qwik.mjs_GetForm_component_form_onSubmit_1_xe8duyQ5aaU.js",
+				"node_modules/@builder.io/qwik-city/lib/index.qwik.mjs_GetForm_component_form_onSubmit_zpHcJzYZ88E.js",
+				"node_modules/@builder.io/qwik-city/lib/index.qwik.mjs_GetForm_component_pWsmcogutG8.js",
+				"node_modules/zod/lib/index.mjs"
+			],
+			"symbols": [
+				"s_pWsmcogutG8",
+				"s_xe8duyQ5aaU",
+				"s_zpHcJzYZ88E"
+			],
+			"interactivity": 2
+		},
+		"q-BqYkKY1L.js": {
+			"size": 299,
+			"total": 76827,
+			"imports": [
+				"q-CK_dj2ki.js",
+				"q-Gd0iVcj2.js"
+			],
+			"dynamicImports": [
+				"q-Cvc3td3c.js"
+			],
+			"origins": [
+				"src/routes/portfolio/index.tsx"
+			],
+			"interactivity": 0
 		},
 		"q-BRBr7aun.js": {
 			"size": 2297,
@@ -933,21 +1374,6 @@
 				"s_9KRx0IOCHt8"
 			],
 			"interactivity": 1
-		},
-		"q-BY1TEMH2.js": {
-			"size": 299,
-			"total": 76827,
-			"imports": [
-				"q-CK_dj2ki.js",
-				"q-Gd0iVcj2.js"
-			],
-			"dynamicImports": [
-				"q-Bd4ly-5n.js"
-			],
-			"origins": [
-				"src/routes/resume/index.tsx"
-			],
-			"interactivity": 0
 		},
 		"q-C5S8xZDW.js": {
 			"size": 832,
@@ -979,44 +1405,6 @@
 			],
 			"interactivity": 1
 		},
-		"q-CdIcrjq6.js": {
-			"size": 853,
-			"total": 163484,
-			"imports": [
-				"q-CK_dj2ki.js",
-				"q-DczYArzj.js",
-				"q-Gd0iVcj2.js"
-			],
-			"origins": [
-				"node_modules/@builder.io/qwik-city/lib/index.qwik.mjs_QwikCityMockProvider_component_MiPVFWJLcMo.js",
-				"node_modules/@builder.io/qwik-city/lib/index.qwik.mjs_QwikCityMockProvider_component_goto_PmWjL2RrvZM.js"
-			],
-			"symbols": [
-				"s_MiPVFWJLcMo",
-				"s_PmWjL2RrvZM"
-			],
-			"interactivity": 2
-		},
-		"q-ChOLMUJp.js": {
-			"size": 1401,
-			"total": 164032,
-			"imports": [
-				"q-CK_dj2ki.js",
-				"q-DczYArzj.js",
-				"q-Gd0iVcj2.js"
-			],
-			"origins": [
-				"src/assets/alex-pogue-profile.png",
-				"src/routes/index.css?inline",
-				"src/routes/index.tsx_routes_component_B0lqk5IDDy4.js",
-				"src/routes/index.tsx_routes_component_useStylesScoped_RZTeGW9xgPs.js"
-			],
-			"symbols": [
-				"s_B0lqk5IDDy4",
-				"s_RZTeGW9xgPs"
-			],
-			"interactivity": 2
-		},
 		"q-CK_dj2ki.js": {
 			"size": 3611,
 			"total": 3611,
@@ -1025,45 +1413,7 @@
 			],
 			"interactivity": 0
 		},
-		"q-ClQqka1c.js": {
-			"size": 2317,
-			"total": 164948,
-			"imports": [
-				"q-CK_dj2ki.js",
-				"q-DczYArzj.js",
-				"q-Gd0iVcj2.js"
-			],
-			"origins": [
-				"node_modules/@builder.io/qwik-city/lib/index.qwik.mjs_Link_component_1raneLGffO8.js",
-				"node_modules/@builder.io/qwik-city/lib/index.qwik.mjs_Link_component_handleClick_FdQ8zERN4uM.js",
-				"node_modules/@builder.io/qwik-city/lib/index.qwik.mjs_Link_component_handlePrefetch_zPJUEsxZLIA.js",
-				"node_modules/@builder.io/qwik-city/lib/index.qwik.mjs_Link_component_useVisibleTask_35YlVmV10xA.js"
-			],
-			"symbols": [
-				"s_1raneLGffO8",
-				"s_35YlVmV10xA",
-				"s_FdQ8zERN4uM",
-				"s_zPJUEsxZLIA"
-			],
-			"interactivity": 3
-		},
-		"q-CoALfwuL.js": {
-			"size": 171,
-			"total": 76699,
-			"imports": [
-				"q-CK_dj2ki.js",
-				"q-Gd0iVcj2.js"
-			],
-			"dynamicImports": [
-				"q-DCPR7YCP.js"
-			],
-			"origins": [
-				"src/global.css",
-				"src/root.tsx"
-			],
-			"interactivity": 0
-		},
-		"q-CPcoRYRm.js": {
+		"q-cKDcMbqO.js": {
 			"size": 2535,
 			"total": 79063,
 			"imports": [
@@ -1087,32 +1437,50 @@
 			],
 			"interactivity": 2
 		},
-		"q-CUavC7kH.js": {
-			"size": 1006,
-			"total": 163637,
+		"q-CMeZBQfB.js": {
+			"size": 1338,
+			"total": 163969,
 			"imports": [
+				"q-BloFoWrO.js",
 				"q-CK_dj2ki.js",
-				"q-DczYArzj.js",
 				"q-Gd0iVcj2.js"
 			],
 			"origins": [
-				"node_modules/@builder.io/qwik-city/lib/index.qwik.mjs_RouterOutlet_component_ScE8eseirUA.js"
+				"node_modules/@builder.io/qwik-city/lib/index.qwik.mjs_serverQrl_rpc_WfTOxT4IrdA.js"
 			],
 			"symbols": [
-				"s_ScE8eseirUA"
+				"s_WfTOxT4IrdA"
+			],
+			"interactivity": 1
+		},
+		"q-CNyfsBPv.js": {
+			"size": 853,
+			"total": 163484,
+			"imports": [
+				"q-BloFoWrO.js",
+				"q-CK_dj2ki.js",
+				"q-Gd0iVcj2.js"
+			],
+			"origins": [
+				"node_modules/@builder.io/qwik-city/lib/index.qwik.mjs_QwikCityMockProvider_component_MiPVFWJLcMo.js",
+				"node_modules/@builder.io/qwik-city/lib/index.qwik.mjs_QwikCityMockProvider_component_goto_PmWjL2RrvZM.js"
+			],
+			"symbols": [
+				"s_MiPVFWJLcMo",
+				"s_PmWjL2RrvZM"
 			],
 			"interactivity": 2
 		},
-		"q-DCPR7YCP.js": {
+		"q-COI8B_is.js": {
 			"size": 486,
 			"total": 163117,
 			"imports": [
+				"q-BloFoWrO.js",
 				"q-CK_dj2ki.js",
-				"q-DczYArzj.js",
 				"q-Gd0iVcj2.js"
 			],
 			"dynamicImports": [
-				"q-7mpNhNrE.js"
+				"q-B1QokYo5.js"
 			],
 			"origins": [
 				"src/components/router-head/router-head.tsx",
@@ -1123,136 +1491,63 @@
 			],
 			"interactivity": 2
 		},
-		"q-DczYArzj.js": {
-			"size": 9575,
-			"total": 86103,
+		"q-CTdfTY6-.js": {
+			"size": 7043,
+			"total": 169674,
 			"imports": [
+				"q-BloFoWrO.js",
 				"q-CK_dj2ki.js",
 				"q-Gd0iVcj2.js"
 			],
 			"dynamicImports": [
-				"q-AD6sTZiT.js",
-				"q-BRBr7aun.js",
-				"q-ClQqka1c.js",
-				"q-CUavC7kH.js"
+				"q-BbiU-epj.js",
+				"q-BqYkKY1L.js",
+				"q-D22VV2Il.js",
+				"q-DXwWkg-a.js"
 			],
 			"origins": [
-				"@qwik-city-sw-register",
-				"node_modules/@builder.io/qwik-city/lib/index.qwik.mjs",
-				"node_modules/@builder.io/qwik-city/lib/index.qwik.mjs_GetForm_component_form_onSubmit_1_xe8duyQ5aaU.js",
-				"node_modules/@builder.io/qwik-city/lib/index.qwik.mjs_GetForm_component_form_onSubmit_zpHcJzYZ88E.js",
-				"node_modules/@builder.io/qwik-city/lib/index.qwik.mjs_GetForm_component_pWsmcogutG8.js",
-				"node_modules/zod/lib/index.mjs"
+				"@qwik-city-plan",
+				"node_modules/@builder.io/qwik-city/lib/index.qwik.mjs_QwikCityProvider_component_goto_aww2BzpANGM.js",
+				"node_modules/@builder.io/qwik-city/lib/index.qwik.mjs_QwikCityProvider_component_p1yCGpFL1xE.js",
+				"node_modules/@builder.io/qwik-city/lib/index.qwik.mjs_QwikCityProvider_component_registerPreventNav_qGVD1Sz413o.js",
+				"node_modules/@builder.io/qwik-city/lib/index.qwik.mjs_QwikCityProvider_component_useStyles_K4gvalEGCME.js",
+				"node_modules/@builder.io/qwik-city/lib/index.qwik.mjs_QwikCityProvider_component_useTask_Ysfvd0zsHZc.js"
 			],
 			"symbols": [
-				"s_pWsmcogutG8",
-				"s_xe8duyQ5aaU",
-				"s_zpHcJzYZ88E"
+				"s_aww2BzpANGM",
+				"s_K4gvalEGCME",
+				"s_p1yCGpFL1xE",
+				"s_qGVD1Sz413o",
+				"s_Ysfvd0zsHZc"
+			],
+			"interactivity": 3
+		},
+		"q-CuJtkrJc.js": {
+			"size": 4768,
+			"total": 331431,
+			"imports": [
+				"q-b3sP173y.js",
+				"q-BloFoWrO.js",
+				"q-CK_dj2ki.js",
+				"q-Gd0iVcj2.js"
+			],
+			"origins": [
+				"src/routes/resume/index.tsx_resume_component_15mU0ByJI68.js",
+				"src/routes/resume/index.tsx_resume_component_useStylesScoped_VneRD5ws8AQ.js"
+			],
+			"symbols": [
+				"s_15mU0ByJI68",
+				"s_VneRD5ws8AQ"
 			],
 			"interactivity": 2
 		},
-		"q-DIiZ9uiJ.js": {
-			"size": 14410,
-			"total": 341073,
-			"imports": [
-				"q-ChOLMUJp.js",
-				"q-CK_dj2ki.js",
-				"q-DczYArzj.js",
-				"q-Gd0iVcj2.js"
-			],
-			"dynamicImports": [
-				"q-CPcoRYRm.js"
-			],
-			"origins": [
-				"src/components/image-slider/image-slider.tsx",
-				"src/routes/portfolio/newrelic/columns.css?inline",
-				"src/routes/portfolio/newrelic/index.tsx",
-				"src/routes/portfolio/newrelic/index.tsx_newrelic_component_Slide10_component_XqqA2QJ3qX4.js",
-				"src/routes/portfolio/newrelic/index.tsx_newrelic_component_Slide10_component_useStylesScoped_fb64zWN7oII.js",
-				"src/routes/portfolio/newrelic/index.tsx_newrelic_component_Slide11_component_PgUXYl4aURE.js",
-				"src/routes/portfolio/newrelic/index.tsx_newrelic_component_Slide12_component_HsrtLkfU6x4.js",
-				"src/routes/portfolio/newrelic/index.tsx_newrelic_component_Slide12_component_useStylesScoped_0eOS7JRHSNE.js",
-				"src/routes/portfolio/newrelic/index.tsx_newrelic_component_Slide13_component_gRkv5OsTwac.js",
-				"src/routes/portfolio/newrelic/index.tsx_newrelic_component_Slide14_component_wpTL5FbvJtM.js",
-				"src/routes/portfolio/newrelic/index.tsx_newrelic_component_Slide15_component_ljtDExb5PWQ.js",
-				"src/routes/portfolio/newrelic/index.tsx_newrelic_component_Slide1_component_Av0GO13Ht4U.js",
-				"src/routes/portfolio/newrelic/index.tsx_newrelic_component_Slide2_component_l7QtfJFSufc.js",
-				"src/routes/portfolio/newrelic/index.tsx_newrelic_component_Slide3_component_nDFmuFb7J0w.js",
-				"src/routes/portfolio/newrelic/index.tsx_newrelic_component_Slide4_component_0l91Nnb7qQk.js",
-				"src/routes/portfolio/newrelic/index.tsx_newrelic_component_Slide5_component_IGUo7ZRYC04.js",
-				"src/routes/portfolio/newrelic/index.tsx_newrelic_component_Slide6_component_jP0r07mvknE.js",
-				"src/routes/portfolio/newrelic/index.tsx_newrelic_component_Slide7_component_5FEAdbBdQZk.js",
-				"src/routes/portfolio/newrelic/index.tsx_newrelic_component_Slide7_component_useStylesScoped_xPD2nc91eFU.js",
-				"src/routes/portfolio/newrelic/index.tsx_newrelic_component_Slide8_component_WLTOqUsshp4.js",
-				"src/routes/portfolio/newrelic/index.tsx_newrelic_component_Slide8_component_useStylesScoped_5EtpcUU1Su0.js",
-				"src/routes/portfolio/newrelic/index.tsx_newrelic_component_Slide9_component_IPvXxSWvDfg.js",
-				"src/routes/portfolio/newrelic/index.tsx_newrelic_component_Slide9_component_useStylesScoped_7YdNvWawcjw.js",
-				"src/routes/portfolio/newrelic/index.tsx_newrelic_component_XVIkzjjNQ0w.js",
-				"src/routes/portfolio/newrelic/index.tsx_newrelic_component_useStylesScoped_EZ0sJOWXjbk.js"
-			],
-			"symbols": [
-				"s_0eOS7JRHSNE",
-				"s_0l91Nnb7qQk",
-				"s_5EtpcUU1Su0",
-				"s_5FEAdbBdQZk",
-				"s_7YdNvWawcjw",
-				"s_Av0GO13Ht4U",
-				"s_EZ0sJOWXjbk",
-				"s_fb64zWN7oII",
-				"s_gRkv5OsTwac",
-				"s_HsrtLkfU6x4",
-				"s_IGUo7ZRYC04",
-				"s_IPvXxSWvDfg",
-				"s_jP0r07mvknE",
-				"s_l7QtfJFSufc",
-				"s_ljtDExb5PWQ",
-				"s_nDFmuFb7J0w",
-				"s_PgUXYl4aURE",
-				"s_WLTOqUsshp4",
-				"s_wpTL5FbvJtM",
-				"s_xPD2nc91eFU",
-				"s_XqqA2QJ3qX4",
-				"s_XVIkzjjNQ0w"
-			],
-			"interactivity": 2
-		},
-		"q-DO6PmrI4.js": {
-			"size": 299,
-			"total": 76827,
-			"imports": [
-				"q-CK_dj2ki.js",
-				"q-Gd0iVcj2.js"
-			],
-			"dynamicImports": [
-				"q-ChOLMUJp.js"
-			],
-			"origins": [
-				"src/routes/index.tsx"
-			],
-			"interactivity": 0
-		},
-		"q-DrtCJqBl.js": {
-			"size": 299,
-			"total": 76827,
-			"imports": [
-				"q-CK_dj2ki.js",
-				"q-Gd0iVcj2.js"
-			],
-			"dynamicImports": [
-				"q-DW2ukm1J.js"
-			],
-			"origins": [
-				"src/routes/portfolio/index.tsx"
-			],
-			"interactivity": 0
-		},
-		"q-DW2ukm1J.js": {
+		"q-Cvc3td3c.js": {
 			"size": 2671,
 			"total": 329334,
 			"imports": [
-				"q-ChOLMUJp.js",
+				"q-b3sP173y.js",
+				"q-BloFoWrO.js",
 				"q-CK_dj2ki.js",
-				"q-DczYArzj.js",
 				"q-Gd0iVcj2.js"
 			],
 			"origins": [
@@ -1264,6 +1559,74 @@
 				"s_7cRGzx0I4TU"
 			],
 			"interactivity": 2
+		},
+		"q-D22VV2Il.js": {
+			"size": 299,
+			"total": 76827,
+			"imports": [
+				"q-CK_dj2ki.js",
+				"q-Gd0iVcj2.js"
+			],
+			"dynamicImports": [
+				"q-b3sP173y.js"
+			],
+			"origins": [
+				"src/routes/index.tsx"
+			],
+			"interactivity": 0
+		},
+		"q-Dahu_ae8.js": {
+			"size": 2317,
+			"total": 164948,
+			"imports": [
+				"q-BloFoWrO.js",
+				"q-CK_dj2ki.js",
+				"q-Gd0iVcj2.js"
+			],
+			"origins": [
+				"node_modules/@builder.io/qwik-city/lib/index.qwik.mjs_Link_component_1raneLGffO8.js",
+				"node_modules/@builder.io/qwik-city/lib/index.qwik.mjs_Link_component_handleClick_FdQ8zERN4uM.js",
+				"node_modules/@builder.io/qwik-city/lib/index.qwik.mjs_Link_component_handlePrefetch_zPJUEsxZLIA.js",
+				"node_modules/@builder.io/qwik-city/lib/index.qwik.mjs_Link_component_useVisibleTask_35YlVmV10xA.js"
+			],
+			"symbols": [
+				"s_1raneLGffO8",
+				"s_35YlVmV10xA",
+				"s_FdQ8zERN4uM",
+				"s_zPJUEsxZLIA"
+			],
+			"interactivity": 3
+		},
+		"q-DCIygfEr.js": {
+			"size": 1006,
+			"total": 163637,
+			"imports": [
+				"q-BloFoWrO.js",
+				"q-CK_dj2ki.js",
+				"q-Gd0iVcj2.js"
+			],
+			"origins": [
+				"node_modules/@builder.io/qwik-city/lib/index.qwik.mjs_RouterOutlet_component_ScE8eseirUA.js"
+			],
+			"symbols": [
+				"s_ScE8eseirUA"
+			],
+			"interactivity": 2
+		},
+		"q-DXwWkg-a.js": {
+			"size": 299,
+			"total": 76827,
+			"imports": [
+				"q-CK_dj2ki.js",
+				"q-Gd0iVcj2.js"
+			],
+			"dynamicImports": [
+				"q-CuJtkrJc.js"
+			],
+			"origins": [
+				"src/routes/resume/index.tsx"
+			],
+			"interactivity": 0
 		},
 		"q-Gd0iVcj2.js": {
 			"size": 69306,
@@ -1282,22 +1645,6 @@
 				"s_US0pTyQnOdc"
 			],
 			"interactivity": 2
-		},
-		"q-So2fMhGj.js": {
-			"size": 1338,
-			"total": 163969,
-			"imports": [
-				"q-CK_dj2ki.js",
-				"q-DczYArzj.js",
-				"q-Gd0iVcj2.js"
-			],
-			"origins": [
-				"node_modules/@builder.io/qwik-city/lib/index.qwik.mjs_serverQrl_rpc_WfTOxT4IrdA.js"
-			],
-			"symbols": [
-				"s_WfTOxT4IrdA"
-			],
-			"interactivity": 1
 		}
 	},
 	"injections": [
@@ -1324,251 +1671,311 @@
 		"vite": "",
 		"rollup": "4.44.0",
 		"env": "node",
-		"os": "linux",
-		"node": "22.15.1"
+		"os": "darwin",
+		"node": "20.6.0"
 	},
 	"bundleGraph": [
 		"q-4h1fVc6_.js",
-		58,
-		"q-7mpNhNrE.js",
-		36,
-		"q-AD6sTZiT.js",
-		36,
-		"q-Bd4ly-5n.js",
-		19,
-		"q-BRBr7aun.js",
-		"q-BY1TEMH2.js",
-		58,
+		60,
+		"q-B1QokYo5.js",
+		14,
+		"q-b3sP173y.js",
+		14,
+		"q-BA2zPuVk.js",
+		60,
 		-9,
-		6,
-		"q-C5S8xZDW.js",
-		58,
-		"q-C5VovkJ7.js",
-		58,
-		"q-CdIcrjq6.js",
-		36,
-		"q-ChOLMUJp.js",
-		36,
-		"q-CK_dj2ki.js",
-		"q-ClQqka1c.js",
-		36,
-		"q-CoALfwuL.js",
-		58,
+		38,
+		"q-BbiU-epj.js",
+		4,
 		-9,
 		32,
-		"q-CPcoRYRm.js",
-		58,
-		"q-CUavC7kH.js",
-		36,
-		"q-DCPR7YCP.js",
-		36,
+		"q-BloFoWrO.js",
+		60,
+		-10,
+		42,
+		52,
+		-9,
+		54,
+		26,
+		"q-BqYkKY1L.js",
+		60,
+		-9,
+		46,
+		"q-BRBr7aun.js",
+		"q-C5S8xZDW.js",
+		60,
+		"q-C5VovkJ7.js",
+		60,
+		"q-CK_dj2ki.js",
+		"q-cKDcMbqO.js",
+		60,
+		"q-CMeZBQfB.js",
+		14,
+		"q-CNyfsBPv.js",
+		14,
+		"q-COI8B_is.js",
+		14,
 		-9,
 		2,
-		"q-DczYArzj.js",
-		58,
-		-10,
+		"q-CTdfTY6-.js",
+		14,
+		"q-CuJtkrJc.js",
 		4,
-		22,
+		"q-Cvc3td3c.js",
+		4,
+		"q-D22VV2Il.js",
+		60,
 		-9,
-		30,
-		8,
-		"q-DIiZ9uiJ.js",
-		19,
+		4,
+		"q-Dahu_ae8.js",
+		14,
+		"q-DCIygfEr.js",
+		14,
+		"q-DXwWkg-a.js",
+		60,
 		-9,
-		28,
-		"q-DO6PmrI4.js",
-		58,
-		-9,
-		19,
-		"q-DrtCJqBl.js",
-		58,
-		-9,
-		56,
-		"q-DW2ukm1J.js",
-		19,
+		44,
 		"q-Gd0iVcj2.js",
-		21,
-		"q-So2fMhGj.js",
-		36,
+		31,
 		"mLIFOUdv8bU",
 		-7,
-		28,
+		32,
 		"ralezJo7NVI",
 		-7,
-		28,
+		32,
 		"Ysfvd0zsHZc",
 		-8,
-		4,
+		42,
 		"26Zk9LevwR4",
 		-8,
 		0,
 		"35YlVmV10xA",
 		-8,
-		22,
+		52,
 		"0AnGTiWLqSE",
 		-7,
-		28,
+		32,
 		"0vphQYqOdZI",
 		-7,
 		2,
 		"15mU0ByJI68",
 		-7,
-		6,
+		44,
 		"1raneLGffO8",
 		-8,
-		22,
+		52,
 		"7cRGzx0I4TU",
 		-7,
-		56,
+		46,
 		"B0lqk5IDDy4",
 		-7,
-		19,
+		4,
 		"MiPVFWJLcMo",
 		-7,
-		17,
+		36,
 		"ScE8eseirUA",
 		-7,
-		30,
+		54,
 		"XVIkzjjNQ0w",
 		-7,
-		44,
+		10,
 		"bmV0oH7tsks",
 		-7,
-		58,
+		60,
 		"p1yCGpFL1xE",
 		-8,
-		4,
+		42,
 		"pWsmcogutG8",
 		-7,
-		36,
+		14,
 		"tntnak2DhJ8",
 		-7,
-		32,
+		38,
 		"0l91Nnb7qQk",
 		-7,
-		44,
+		10,
 		"5FEAdbBdQZk",
 		-7,
-		44,
+		10,
+		"Ah190hIUdKs",
+		-7,
+		10,
 		"Av0GO13Ht4U",
 		-7,
-		44,
+		10,
+		"BtQ7lMoon2U",
+		-7,
+		10,
+		"G03xykFwZgY",
+		-7,
+		10,
 		"HsrtLkfU6x4",
 		-7,
-		44,
+		10,
 		"IGUo7ZRYC04",
 		-7,
-		44,
+		10,
 		"IPvXxSWvDfg",
 		-7,
-		44,
+		10,
+		"Jwjyazdlp4A",
+		-7,
+		10,
+		"KlNhHhtL0DU",
+		-7,
+		10,
 		"PgUXYl4aURE",
 		-7,
-		44,
+		10,
+		"TBUkS5WHS4g",
+		-7,
+		10,
+		"UVaVDWBinHs",
+		-7,
+		10,
 		"WLTOqUsshp4",
 		-7,
-		44,
+		10,
 		"XqqA2QJ3qX4",
 		-7,
-		44,
+		10,
+		"XvaNpJjyLrc",
+		-7,
+		10,
+		"fyrBxgmPMys",
+		-7,
+		10,
+		"g4Gz8LKMm5s",
+		-7,
+		10,
 		"gRkv5OsTwac",
 		-7,
-		44,
+		10,
 		"jP0r07mvknE",
 		-7,
-		44,
+		10,
+		"juvXTEm8qyQ",
+		-7,
+		10,
 		"l7QtfJFSufc",
 		-7,
-		44,
+		10,
 		"ljtDExb5PWQ",
 		-7,
-		44,
+		10,
 		"nDFmuFb7J0w",
 		-7,
-		44,
+		10,
+		"nTJ27GjaKeU",
+		-7,
+		10,
+		"sFUDo0n4G7I",
+		-7,
+		10,
+		"te0mQ1Wky04",
+		-7,
+		10,
+		"v7HJK2GTZag",
+		-7,
+		10,
 		"wpTL5FbvJtM",
 		-7,
-		44,
+		10,
 		"K4gvalEGCME",
 		-8,
-		4,
+		42,
 		"0eOS7JRHSNE",
 		-7,
-		44,
+		10,
 		"0r2ah6M2Ey8",
 		-7,
-		56,
+		46,
 		"5EtpcUU1Su0",
 		-7,
-		44,
+		10,
 		"7YdNvWawcjw",
 		-7,
-		44,
+		10,
 		"EZ0sJOWXjbk",
 		-7,
-		44,
+		10,
+		"Hnm0gxiYrUA",
+		-7,
+		10,
+		"JlTv103ugbs",
+		-7,
+		10,
+		"JxN65mrYvZU",
+		-7,
+		10,
 		"RMkWYTMVxwY",
 		-7,
-		28,
+		32,
 		"RZTeGW9xgPs",
 		-7,
-		19,
+		4,
 		"VneRD5ws8AQ",
 		-7,
-		6,
+		44,
 		"fb64zWN7oII",
 		-7,
-		44,
+		10,
+		"kVD72zCiUbA",
+		-7,
+		10,
+		"rUSt9LsdS0I",
+		-7,
+		10,
 		"xPD2nc91eFU",
 		-7,
-		44,
+		10,
 		"9KRx0IOCHt8",
 		-6,
-		8,
+		26,
 		"A5SCimyrjAE",
 		-6,
-		15,
+		29,
 		"N26RLdG0oBg",
 		-6,
-		13,
+		27,
 		"WfTOxT4IrdA",
 		-6,
-		60,
+		34,
 		"FdQ8zERN4uM",
 		-8,
-		22,
+		52,
 		"Li8ELRw0vEg",
 		-7,
-		28,
+		32,
 		"PmWjL2RrvZM",
 		-7,
-		17,
+		36,
 		"US0pTyQnOdc",
 		-7,
-		58,
+		60,
 		"aww2BzpANGM",
 		-8,
-		4,
+		42,
 		"qGVD1Sz413o",
 		-8,
-		4,
+		42,
 		"xe8duyQ5aaU",
 		-7,
-		36,
+		14,
 		"zPJUEsxZLIA",
 		-8,
-		22,
+		52,
 		"zpHcJzYZ88E",
 		-7,
-		36,
+		14,
 		"/qwik/",
 		-5,
 		48,
 		"qwik/portfolio/",
 		-5,
-		52,
+		22,
 		"qwik/resume/",
 		-5,
-		9
+		56
 	]
 }
