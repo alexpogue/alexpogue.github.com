@@ -32,3 +32,8 @@ u=b=>pako.inflate(Uint8Array.from(atob(b),c=>c.charCodeAt(0)),{to:'string'})
 
 // QRCode shortcut
 Q=(el,t)=>new QRCode(el,{text:t,width:600,height:600,correctLevel:QRCode.CorrectLevel.L})
+q=(id,t)=>{window[id].innerHTML='';t&&Q(window[id],t)}
+gk=async()=>{let k=await G();p.value=k.publicKey,v.value=k.privateKey,q('pq',f(k.publicKey))}
+ex=()=>d.value=u(c.value)
+en=async()=>{let r=await EN(await CM(m.value),await RK(pe.value));o.value=r,q('qe',f(r))}
+dc=async()=>{let{data:r}=await DE(await RM(md.value),await RP(vd.value));od.value=r}
